@@ -1,0 +1,1248 @@
+﻿Log file open, 08/26/20 14:03:00
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Tentativa4
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.731492
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: E:/EPIC GAMES/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.08.26-17.03.03:357][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.08.26-17.03.03:357][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.08.26-17.03.03:359][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Engine.ini]
+[2020.08.26-17.03.03:359][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.08.26-17.03.03:359][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Engine.ini]
+[2020.08.26-17.03.03:359][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Engine.ini]
+[2020.08.26-17.03.03:359][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.08.26-17.03.03:359][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.08.26-17.03.03:359][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.08.26-17.03.03:359][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.08.26-17.03.03:359][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.08.26-17.03.03:359][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.08.26-17.03.03:359][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.08.26-17.03.03:359][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.08.26-17.03.03:359][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.08.26-17.03.03:359][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.08.26-17.03.03:359][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.08.26-17.03.03:359][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.08.26-17.03.03:359][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.08.26-17.03.03:359][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Engine.ini]
+[2020.08.26-17.03.03:359][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.08.26-17.03.03:359][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.08.26-17.03.03:359][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.08.26-17.03.03:359][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.08.26-17.03.03:359][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.08.26-17.03.03:359][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.08.26-17.03.03:359][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.08.26-17.03.03:359][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.08.26-17.03.03:359][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.08.26-17.03.03:359][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.08.26-17.03.03:359][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.08.26-17.03.03:359][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.08.26-17.03.03:359][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.08.26-17.03.03:359][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Engine.ini]
+[2020.08.26-17.03.03:359][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Engine.ini]
+[2020.08.26-17.03.03:421][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.08.26-17.03.03:421][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.08.26-17.03.03:421][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.08.26-17.03.03:421][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.08.26-17.03.03:421][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.08.26-17.03.03:421][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.08.26-17.03.03:421][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.08.26-17.03.03:421][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.08.26-17.03.03:421][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.08.26-17.03.03:421][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.08.26-17.03.03:421][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.08.26-17.03.03:421][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.08.26-17.03.03:421][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.08.26-17.03.03:421][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.08.26-17.03.03:421][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.08.26-17.03.03:421][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.08.26-17.03.03:421][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.08.26-17.03.03:421][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.08.26-17.03.03:421][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.08.26-17.03.03:421][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.08.26-17.03.03:421][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.08.26-17.03.03:421][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.08.26-17.03.03:421][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.08.26-17.03.03:421][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.08.26-17.03.03:421][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.08.26-17.03.03:421][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.08.26-17.03.03:421][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.08.26-17.03.03:421][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.08.26-17.03.03:421][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.08.26-17.03.03:421][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.08.26-17.03.03:421][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.08.26-17.03.03:421][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.08.26-17.03.03:421][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.08.26-17.03.03:422][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.08.26-17.03.03:422][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.08.26-17.03.03:422][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.08.26-17.03.03:422][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.08.26-17.03.03:422][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.08.26-17.03.03:422][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.08.26-17.03.03:422][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.08.26-17.03.03:422][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.08.26-17.03.03:422][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.08.26-17.03.03:422][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.08.26-17.03.03:422][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.08.26-17.03.03:422][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.08.26-17.03.03:422][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.08.26-17.03.03:422][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.08.26-17.03.03:422][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.08.26-17.03.03:422][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.08.26-17.03.03:422][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.08.26-17.03.03:422][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.08.26-17.03.03:422][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.08.26-17.03.03:422][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.08.26-17.03.03:422][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.08.26-17.03.03:422][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.08.26-17.03.03:422][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.08.26-17.03.03:422][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.08.26-17.03.03:422][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.08.26-17.03.03:422][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.08.26-17.03.03:422][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.08.26-17.03.03:422][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.08.26-17.03.03:422][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.08.26-17.03.03:422][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.08.26-17.03.03:422][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.08.26-17.03.03:422][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.08.26-17.03.03:422][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.08.26-17.03.03:422][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.08.26-17.03.03:422][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.08.26-17.03.03:422][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.08.26-17.03.03:422][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.08.26-17.03.03:422][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.08.26-17.03.03:422][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.08.26-17.03.03:422][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.08.26-17.03.03:422][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.08.26-17.03.03:422][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.08.26-17.03.03:422][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.08.26-17.03.03:422][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.08.26-17.03.03:422][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.08.26-17.03.03:422][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.08.26-17.03.03:422][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.08.26-17.03.03:422][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.08.26-17.03.03:430][  0]LogInit: Selected Device Profile: [Windows]
+[2020.08.26-17.03.03:437][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.08.26-17.03.03:463][  0]LogHAL: Display: Platform has ~ 12 GB [12751085568 / 17179869184 / 12], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.08.26-17.03.03:463][  0]LogInit: Going up to parent DeviceProfile []
+[2020.08.26-17.03.03:464][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.08.26-17.03.03:464][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.08.26-17.03.03:464][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.08.26-17.03.03:464][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.08.26-17.03.03:464][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.08.26-17.03.03:464][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.08.26-17.03.03:464][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.08.26-17.03.03:464][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.08.26-17.03.03:464][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.08.26-17.03.03:464][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.08.26-17.03.03:464][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.08.26-17.03.03:464][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.08.26-17.03.03:464][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.08.26-17.03.03:464][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.08.26-17.03.03:464][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.08.26-17.03.03:464][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.08.26-17.03.03:464][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.08.26-17.03.03:464][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.08.26-17.03.03:464][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.08.26-17.03.03:464][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.08.26-17.03.03:464][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.08.26-17.03.03:464][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.08.26-17.03.03:464][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.08.26-17.03.03:464][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.08.26-17.03.03:464][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.08.26-17.03.03:464][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.08.26-17.03.03:464][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.08.26-17.03.03:464][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.08.26-17.03.03:464][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.08.26-17.03.03:464][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.08.26-17.03.03:464][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.08.26-17.03.03:464][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.08.26-17.03.03:464][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.08.26-17.03.03:464][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.08.26-17.03.03:464][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.08.26-17.03.03:464][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.08.26-17.03.03:464][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.08.26-17.03.03:464][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.08.26-17.03.03:464][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.08.26-17.03.03:464][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.08.26-17.03.03:465][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.08.26-17.03.03:465][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.08.26-17.03.03:465][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.08.26-17.03.03:465][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.08.26-17.03.03:465][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.08.26-17.03.03:465][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.08.26-17.03.03:465][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.08.26-17.03.03:465][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.08.26-17.03.03:465][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.08.26-17.03.03:465][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.08.26-17.03.03:465][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.08.26-17.03.03:465][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.08.26-17.03.03:465][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.08.26-17.03.03:465][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.08.26-17.03.03:465][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.08.26-17.03.03:465][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.08.26-17.03.03:465][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.08.26-17.03.03:465][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.08.26-17.03.03:465][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.08.26-17.03.03:465][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.08.26-17.03.03:465][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.08.26-17.03.03:465][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.08.26-17.03.03:465][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.08.26-17.03.03:465][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.08.26-17.03.03:465][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.08.26-17.03.03:465][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.08.26-17.03.03:465][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.08.26-17.03.03:465][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.08.26-17.03.03:465][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.08.26-17.03.03:465][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.08.26-17.03.03:465][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.08.26-17.03.03:465][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.08.26-17.03.03:465][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.08.26-17.03.03:465][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.08.26-17.03.03:465][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.08.26-17.03.03:465][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.08.26-17.03.03:465][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.08.26-17.03.03:465][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.08.26-17.03.03:465][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.08.26-17.03.03:465][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.08.26-17.03.03:465][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.08.26-17.03.03:465][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.08.26-17.03.03:478][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.08.26-17.03.03:478][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.08.26-17.03.03:478][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Engine.ini]
+[2020.08.26-17.03.03:495][  0]LogInit: Computer: DESKTOP-AM7GMFQ
+[2020.08.26-17.03.03:495][  0]LogInit: User: salles
+[2020.08.26-17.03.03:495][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.08.26-17.03.03:495][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.08.26-17.03.03:496][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2020.08.26-17.03.03:496][  0]LogMemory: Platform Memory Stats for Windows
+[2020.08.26-17.03.03:496][  0]LogMemory: Process Physical Memory: 102.24 MB used, 102.25 MB peak
+[2020.08.26-17.03.03:496][  0]LogMemory: Process Virtual Memory: 100.48 MB used, 100.48 MB peak
+[2020.08.26-17.03.03:496][  0]LogMemory: Physical Memory: 4601.62 MB used,  7558.77 MB free, 12160.38 MB total
+[2020.08.26-17.03.03:496][  0]LogMemory: Virtual Memory: 4670.34 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2020.08.26-17.03.03:503][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.08.26-17.03.04:181][  0]LogInit: Using OS detected language (pt-BR).
+[2020.08.26-17.03.04:181][  0]LogInit: Using OS detected locale (pt-BR).
+[2020.08.26-17.03.04:646][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/pt/Editor.locres' could not be opened for reading!
+[2020.08.26-17.03.04:647][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/pt/EditorTutorials.locres' could not be opened for reading!
+[2020.08.26-17.03.04:647][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/pt/Keywords.locres' could not be opened for reading!
+[2020.08.26-17.03.04:647][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/pt/Category.locres' could not be opened for reading!
+[2020.08.26-17.03.04:647][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/pt/ToolTips.locres' could not be opened for reading!
+[2020.08.26-17.03.04:647][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/pt/PropertyNames.locres' could not be opened for reading!
+[2020.08.26-17.03.04:647][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/pt/Engine.locres' could not be opened for reading!
+[2020.08.26-17.03.04:647][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/pt/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2020.08.26-17.03.04:647][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/pt/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2020.08.26-17.03.04:647][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/pt/OnlineSubsystem.locres' could not be opened for reading!
+[2020.08.26-17.03.04:647][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/pt/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2020.08.26-17.03.04:679][  0]LogInit: Setting process to per monitor DPI aware
+[2020.08.26-17.03.05:164][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.08.26-17.03.05:164][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.08.26-17.03.08:269][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.08.26-17.03.08:269][  0]LogD3D11RHI: D3D11 adapters:
+[2020.08.26-17.03.08:343][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2020.08.26-17.03.08:343][  0]LogD3D11RHI:       128/0/6080 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x8086
+[2020.08.26-17.03.08:345][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.08.26-17.03.08:345][  0]LogD3D11RHI:       0/0/6080 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.08.26-17.03.08:345][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.08.26-17.03.08:371][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.08.26-17.03.08:372][  0]LogD3D11RHI:     GPU DeviceId: 0x1912 (for the marketing name, search the web for "GPU Device Id")
+[2020.08.26-17.03.08:372][  0]LogWindows: EnumDisplayDevices:
+[2020.08.26-17.03.08:372][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:0 D:1)
+[2020.08.26-17.03.08:372][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2020.08.26-17.03.08:372][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2020.08.26-17.03.08:373][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2020.08.26-17.03.08:373][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 530
+[2020.08.26-17.03.08:373][  0]LogD3D11RHI:   Driver Version: 26.20.100.7262 (internal:26.20.100.7262, unified:26.20.100.7262)
+[2020.08.26-17.03.08:373][  0]LogD3D11RHI:      Driver Date: 9-25-2019
+[2020.08.26-17.03.08:373][  0]LogRHI: Texture pool is 1523 MB (70% of 2176 MB)
+[2020.08.26-17.03.08:471][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2020.08.26-17.03.08:471][  0]LogD3D11RHI: Async texture creation enabled
+[2020.08.26-17.03.08:685][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2020.08.26-17.03.09:636][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.08.26-17.03.09:681][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.08.26-17.03.09:717][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.08.26-17.03.09:746][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.08.26-17.03.09:797][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.08.26-17.03.09:840][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.08.26-17.03.09:864][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.08.26-17.03.09:897][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.08.26-17.03.09:923][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.08.26-17.03.10:003][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.08.26-17.03.10:003][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.08.26-17.03.10:003][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.08.26-17.03.10:003][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.08.26-17.03.10:003][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.08.26-17.03.10:003][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.08.26-17.03.10:003][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.08.26-17.03.10:003][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.08.26-17.03.10:003][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.08.26-17.03.10:003][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.08.26-17.03.10:003][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.08.26-17.03.10:003][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.08.26-17.03.10:003][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.08.26-17.03.10:003][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.08.26-17.03.10:003][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.08.26-17.03.10:003][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.08.26-17.03.10:003][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.08.26-17.03.10:003][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.08.26-17.03.10:028][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.08.26-17.03.10:130][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.08.26-17.03.10:130][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.08.26-17.03.10:167][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.08.26-17.03.10:167][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.08.26-17.03.10:197][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.08.26-17.03.10:222][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.08.26-17.03.10:254][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.08.26-17.03.10:288][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.08.26-17.03.10:333][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.08.26-17.03.10:333][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.08.26-17.03.10:333][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.08.26-17.03.10:532][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.08.26-17.03.11:300][  0]LogShaderCompilers: Guid format shader working directory is 0 characters bigger than the processId version (C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Intermediate/Shaders/WorkingDirectory/14368/).
+[2020.08.26-17.03.11:300][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/salles/AppData/Local/Temp/UnrealShaderWorkingDir/F806F1FE4D282DD2589F82A4B7FCDF1B/'.
+[2020.08.26-17.03.11:306][  0]LogXGEController: Cleaning working directory: C:/Users/salles/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.08.26-17.03.11:306][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.08.26-17.03.11:307][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.08.26-17.03.11:307][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.08.26-17.03.14:912][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.08.26-17.03.15:135][  0]LogDerivedDataCache: Loaded boot cache 0.21s 74MB C:/Users/salles/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.08.26-17.03.15:135][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/salles/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.08.26-17.03.15:136][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.08.26-17.03.15:136][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.08.26-17.03.15:136][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.08.26-17.03.15:136][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.08.26-17.03.15:219][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.08.26-17.03.15:219][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.08.26-17.03.15:219][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.08.26-17.03.15:221][  0]LogDerivedDataCache: Using Local data cache path C:/Users/salles/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.08.26-17.03.15:221][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.08.26-17.03.15:221][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.08.26-17.03.15:286][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.08.26-17.03.15:355][  0]LogSlate: Using FreeType 2.6.0
+[2020.08.26-17.03.15:446][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.08.26-17.03.16:284][  0]LogAssetRegistry: FAssetRegistry took 0.0069 seconds to start up
+[2020.08.26-17.03.19:805][  0]LogInit: Selected Device Profile: [Windows]
+[2020.08.26-17.03.21:133][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.08.26-17.03.21:133][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.08.26-17.03.21:133][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.08.26-17.03.21:133][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.08.26-17.03.21:134][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.08.26-17.03.21:512][  0]LogNetVersion: Tentativa4 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 811232057)
+[2020.08.26-17.03.23:579][  0]LogClass: Warning: In asset 'None', there is an enum property of type 'EDepthOfFieldMethod' with an invalid value of '('
+[2020.08.26-17.03.25:378][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 2 prioritized culture(s) in 0.165183 seconds
+[2020.08.26-17.03.25:385][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.08.26-17.03.25:385][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.08.26-17.03.25:385][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.08.26-17.03.34:667][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.08.26-17.03.34:700][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.08.26-17.03.35:347][  0]SourceControl: Controle de origem desativado
+[2020.08.26-17.03.35:356][  0]SourceControl: Controle de origem desativado
+[2020.08.26-17.03.35:430][  0]SourceControl: Controle de origem desativado
+[2020.08.26-17.03.35:454][  0]SourceControl: Controle de origem desativado
+[2020.08.26-17.03.36:792][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.08.26-17.03.37:443][  0]LogOcInput: OculusInput pre-init called
+[2020.08.26-17.03.37:504][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.08.26-17.03.37:504][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.08.26-17.03.38:400][  0]LogEngine: Initializing Engine...
+[2020.08.26-17.03.38:413][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.08.26-17.03.38:442][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.022 s
+[2020.08.26-17.03.39:203][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.08.26-17.03.39:473][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.08.26-17.03.39:730][  0]LogInit: XAudio2 using 'Alto-falantes (2- Logitech G533 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2020.08.26-17.03.39:751][  0]LogInit: FAudioDevice initialized.
+[2020.08.26-17.03.39:751][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.08.26-17.03.39:953][  0]LogDerivedDataCache: Saved boot cache 0.20s 74MB C:/Users/salles/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.08.26-17.03.39:964][  0]LogInit: Texture streaming: Enabled
+[2020.08.26-17.03.40:101][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.08.26-17.03.40:101][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={0E6564F9-4947-F8D3-A9ED-37952D20B5F3}
+[2020.08.26-17.03.40:102][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.08.26-17.03.40:104][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.08.26-17.03.40:283][  0]LogInit: Transaction tracking system initialized
+[2020.08.26-17.03.40:622][  0]BlueprintLog: New page: Carregar Editor
+[2020.08.26-17.03.41:647][  0]LocalizationService: Localization service is disabled
+[2020.08.26-17.03.44:200][  0]LogFileCache: Scanning file cache for directory 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/' took 0.01s
+[2020.08.26-17.03.44:200][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.08.26-17.03.44:200][  0]LogCook: Display: Mobile HDR setting 1
+[2020.08.26-17.03.46:488][  0]SourceControl: Controle de origem desativado
+[2020.08.26-17.03.46:515][  0]Cmd: MAP LOAD FILE="C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Maps/Station.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.08.26-17.03.46:529][  0]LightingResults: New page: Compilação de Iluminação
+[2020.08.26-17.03.46:571][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.08.26-17.03.46:628][  0]MapCheck: New page: Verificação de Mapa
+[2020.08.26-17.03.46:628][  0]LightingResults: New page: Compilação de Iluminação
+[2020.08.26-17.03.46:837][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.08.26-17.03.49:796][  0]LogAIModule: Creating AISystem for world Station
+[2020.08.26-17.03.50:191][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.26-17.03.50:358][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.08.26-17.03.50:358][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.26-17.03.50:368][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 9,97ms to complete.
+[2020.08.26-17.03.50:368][  0]LogFileHelpers: Loading map 'Station' took 3.867
+[2020.08.26-17.03.51:328][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.26-17.03.51:350][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.26-17.03.51:358][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.26-17.03.51:367][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.26-17.03.51:436][  0]LogCollectionManager: Loaded 0 collections in 0.012058 seconds
+[2020.08.26-17.03.51:471][  0]LogFileCache: Scanning file cache for directory 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Collections/' took 0.00s
+[2020.08.26-17.03.51:471][  0]LogFileCache: Scanning file cache for directory 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/Developers/salles/Collections/' took 0.00s
+[2020.08.26-17.03.51:471][  0]LogFileCache: Scanning file cache for directory 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/Collections/' took 0.00s
+[2020.08.26-17.03.51:472][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.08.26-17.03.51:479][  0]LogContentBrowser: Native class hierarchy populated in 0.0068 seconds. Added 2863 classes and 680 folders.
+[2020.08.26-17.03.51:513][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.08.26-17.03.52:233][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.08.26-17.03.52:268][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.08.26-17.03.52:626][  0]LogSlate: Took 0.038931 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.08.26-17.03.52:643][  0]LogSlate: Took 0.008623 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.08.26-17.03.52:702][  0]LogSlate: Took 0.010769 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.08.26-17.03.53:062][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2020.08.26-17.03.54:582][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.08.26-17.03.54:582][  0]LogLoad: (Engine Initialization) Total time: 62.56 seconds
+[2020.08.26-17.03.54:582][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.08.26-17.03.54:809][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.08.26-17.03.54:934][  0]LogSlate: Took 0.013502 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.08.26-17.03.56:687][ 29]LogAssetRegistry: Asset discovery search completed in 40.4051 seconds
+[2020.08.26-17.03.56:693][ 29]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000021 seconds (found 0 objects)
+[2020.08.26-17.03.56:693][ 29]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000182 seconds (updated 0 objects)
+[2020.08.26-17.04.01:949][153]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.04.04:668][217]LogSlate: Took 0.000214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.08.26-17.04.04:734][217]LogAIModule: Creating AISystem for world Casa
+[2020.08.26-17.04.04:740][217]LogAssetEditorManager: Opening Asset editor for World /Game/MyContent/Maps/Casa.Casa
+[2020.08.26-17.04.04:778][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.08.26-17.04.04:786][217]Cmd: MAP LOAD FILE="C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Maps/Casa.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.08.26-17.04.04:786][217]LightingResults: New page: Compilação de Iluminação
+[2020.08.26-17.04.04:787][217]LoadErrors: New page: Carregando mapa: Casa.umap
+[2020.08.26-17.04.04:793][217]LogWorld: UWorld::CleanupWorld for Station, bSessionEnded=true, bCleanupResources=true
+[2020.08.26-17.04.04:794][217]MapCheck: New page: Verificação de Mapa
+[2020.08.26-17.04.04:794][217]LightingResults: New page: Compilação de Iluminação
+[2020.08.26-17.04.04:828][217]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.08.26-17.04.04:847][217]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.26-17.04.04:872][217]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.08.26-17.04.04:900][217]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.26-17.04.04:900][217]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,105ms to complete.
+[2020.08.26-17.04.04:900][217]LogFileHelpers: Loading map 'Casa' took 0.122
+[2020.08.26-17.04.43:901][571]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\TCC 2020\Casa/Banheiro/Banheiro_Box.fbx)
+[2020.08.26-17.04.44:025][571]LogFbx: Loading FBX Scene from E:\TCC 2020\Casa/Banheiro/Banheiro_Box.fbx
+[2020.08.26-17.04.44:050][571]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.26-17.04.47:959][571]LogSlate: Window 'Opções de Importação FBX' being destroyed
+[2020.08.26-17.04.48:032][571]LogFbx: Display: Triangulating static mesh Banheiro_Box
+[2020.08.26-17.04.48:078][571]LogStaticMesh: Criando malha estática Banheiro_Box...
+[2020.08.26-17.04.48:097][571]LogStaticMesh: Built static mesh [0.02s] /Game/MyContent/Models/Assets/Models/Casa/Banheiro/Banheiro_Box.Banheiro_Box
+[2020.08.26-17.04.48:132][571]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.08.26-17.04.48:195][571]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\TCC 2020\Casa/Banheiro/Banheiro_Chuveiro.fbx)
+[2020.08.26-17.04.48:205][571]LogFbx: Loading FBX Scene from E:\TCC 2020\Casa/Banheiro/Banheiro_Chuveiro.fbx
+[2020.08.26-17.04.48:210][571]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.26-17.04.48:212][571]LogFbx: Display: Triangulating static mesh Banheiro_Chuveiro
+[2020.08.26-17.04.48:228][571]LogStaticMesh: Criando malha estática Banheiro_Chuveiro...
+[2020.08.26-17.04.48:239][571]LogStaticMesh: Built static mesh [0.01s] /Game/MyContent/Models/Assets/Models/Casa/Banheiro/Banheiro_Chuveiro.Banheiro_Chuveiro
+[2020.08.26-17.04.48:246][571]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.08.26-17.04.48:257][571]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\TCC 2020\Casa/Banheiro/Banheiro_Espelho.fbx)
+[2020.08.26-17.04.48:266][571]LogFbx: Loading FBX Scene from E:\TCC 2020\Casa/Banheiro/Banheiro_Espelho.fbx
+[2020.08.26-17.04.48:271][571]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.26-17.04.48:273][571]LogFbx: Display: Triangulating static mesh Banheiro_Espelho
+[2020.08.26-17.04.48:276][571]LogStaticMesh: Criando malha estática Banheiro_Espelho...
+[2020.08.26-17.04.48:279][571]LogStaticMesh: Built static mesh [0.00s] /Game/MyContent/Models/Assets/Models/Casa/Banheiro/Banheiro_Espelho.Banheiro_Espelho
+[2020.08.26-17.04.48:286][571]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.08.26-17.04.48:297][571]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\TCC 2020\Casa/Banheiro/Banheiro_Janela.fbx)
+[2020.08.26-17.04.48:305][571]LogFbx: Loading FBX Scene from E:\TCC 2020\Casa/Banheiro/Banheiro_Janela.fbx
+[2020.08.26-17.04.48:310][571]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.26-17.04.48:311][571]LogFbx: Display: Triangulating static mesh Banheiro_Janela
+[2020.08.26-17.04.48:319][571]LogStaticMesh: Criando malha estática Banheiro_Janela...
+[2020.08.26-17.04.48:325][571]LogStaticMesh: Built static mesh [0.01s] /Game/MyContent/Models/Assets/Models/Casa/Banheiro/Banheiro_Janela.Banheiro_Janela
+[2020.08.26-17.04.48:332][571]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.08.26-17.04.48:351][571]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\TCC 2020\Casa/Banheiro/Banheiro_Pia.fbx)
+[2020.08.26-17.04.48:360][571]LogFbx: Loading FBX Scene from E:\TCC 2020\Casa/Banheiro/Banheiro_Pia.fbx
+[2020.08.26-17.04.48:365][571]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.26-17.04.48:367][571]LogFbx: Display: Triangulating static mesh Banheiro_Pia
+[2020.08.26-17.04.48:407][571]LogStaticMesh: Criando malha estática Banheiro_Pia...
+[2020.08.26-17.04.48:419][571]LogStaticMesh: Built static mesh [0.01s] /Game/MyContent/Models/Assets/Models/Casa/Banheiro/Banheiro_Pia.Banheiro_Pia
+[2020.08.26-17.04.48:429][571]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.08.26-17.04.48:447][571]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\TCC 2020\Casa/Banheiro/Banheiro_Sanitario.fbx)
+[2020.08.26-17.04.48:456][571]LogFbx: Loading FBX Scene from E:\TCC 2020\Casa/Banheiro/Banheiro_Sanitario.fbx
+[2020.08.26-17.04.48:460][571]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.26-17.04.48:462][571]LogFbx: Display: Triangulating static mesh Banheiro_Sanitario
+[2020.08.26-17.04.48:475][571]LogStaticMesh: Criando malha estática Banheiro_Sanitario...
+[2020.08.26-17.04.48:480][571]LogStaticMesh: Built static mesh [0.01s] /Game/MyContent/Models/Assets/Models/Casa/Banheiro/Banheiro_Sanitario.Banheiro_Sanitario
+[2020.08.26-17.04.48:485][571]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.08.26-17.04.48:520][571]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\TCC 2020\Casa/Casa_Base.fbx)
+[2020.08.26-17.04.48:532][571]LogFbx: Loading FBX Scene from E:\TCC 2020\Casa/Casa_Base.fbx
+[2020.08.26-17.04.48:536][571]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.26-17.04.48:539][571]LogFbx: Display: Triangulating static mesh Casa_Base
+[2020.08.26-17.04.48:560][571]LogStaticMesh: Criando malha estática Casa_Base...
+[2020.08.26-17.04.48:570][571]LogStaticMesh: Built static mesh [0.01s] /Game/MyContent/Models/Assets/Models/Casa/Casa_Base.Casa_Base
+[2020.08.26-17.04.48:573][571]LogStaticMesh: Warning: Casa_Base has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.08.26-17.04.48:573][571]LogStaticMesh: Warning: Casa_Base has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.08.26-17.04.48:576][571]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.08.26-17.04.48:576][571]FBXImport: Warning: Casa_Base has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.08.26-17.04.48:576][571]FBXImport: Warning: Casa_Base has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.08.26-17.04.48:593][571]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\TCC 2020\Casa/Casa_Porta.fbx)
+[2020.08.26-17.04.48:601][571]LogFbx: Loading FBX Scene from E:\TCC 2020\Casa/Casa_Porta.fbx
+[2020.08.26-17.04.48:605][571]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.26-17.04.48:607][571]LogFbx: Display: Triangulating static mesh Porta_de_Entrada
+[2020.08.26-17.04.48:608][571]LogStaticMesh: Criando malha estática Casa_Porta...
+[2020.08.26-17.04.48:608][571]LogStaticMesh: Built static mesh [0.00s] /Game/MyContent/Models/Assets/Models/Casa/Casa_Porta.Casa_Porta
+[2020.08.26-17.04.48:614][571]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.08.26-17.04.48:628][571]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\TCC 2020\Casa/Cozinha/Cozinha_Armario_C_Pia.fbx)
+[2020.08.26-17.04.48:636][571]LogFbx: Loading FBX Scene from E:\TCC 2020\Casa/Cozinha/Cozinha_Armario_C_Pia.fbx
+[2020.08.26-17.04.48:642][571]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.26-17.04.48:644][571]LogFbx: Display: Triangulating static mesh Cozinha_Armario_C_Pia
+[2020.08.26-17.04.48:699][571]LogStaticMesh: Criando malha estática Cozinha_Armario_C_Pia...
+[2020.08.26-17.04.48:723][571]LogStaticMesh: Built static mesh [0.02s] /Game/MyContent/Models/Assets/Models/Casa/Cozinha/Cozinha_Armario_C_Pia.Cozinha_Armario_C_Pia
+[2020.08.26-17.04.48:730][571]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.08.26-17.04.48:746][571]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\TCC 2020\Casa/Cozinha/Cozinha_Armario_Parede.fbx)
+[2020.08.26-17.04.48:754][571]LogFbx: Loading FBX Scene from E:\TCC 2020\Casa/Cozinha/Cozinha_Armario_Parede.fbx
+[2020.08.26-17.04.48:762][571]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.26-17.04.48:764][571]LogFbx: Display: Triangulating static mesh Cozinha_Armario_Parede
+[2020.08.26-17.04.48:778][571]LogStaticMesh: Criando malha estática Cozinha_Armario_Parede...
+[2020.08.26-17.04.48:785][571]LogStaticMesh: Built static mesh [0.01s] /Game/MyContent/Models/Assets/Models/Casa/Cozinha/Cozinha_Armario_Parede.Cozinha_Armario_Parede
+[2020.08.26-17.04.48:789][571]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.08.26-17.04.48:809][571]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\TCC 2020\Casa/Cozinha/Cozinha_Fogao_c_Bocas.fbx)
+[2020.08.26-17.04.48:818][571]LogFbx: Loading FBX Scene from E:\TCC 2020\Casa/Cozinha/Cozinha_Fogao_c_Bocas.fbx
+[2020.08.26-17.04.48:825][571]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.26-17.04.48:827][571]LogFbx: Display: Triangulating static mesh Cozinha_Fogao_c_Bocas
+[2020.08.26-17.04.49:011][571]LogStaticMesh: Criando malha estática Cozinha_Fogao_c_Bocas...
+[2020.08.26-17.04.49:118][571]LogStaticMesh: Built static mesh [0.11s] /Game/MyContent/Models/Assets/Models/Casa/Cozinha/Cozinha_Fogao_c_Bocas.Cozinha_Fogao_c_Bocas
+[2020.08.26-17.04.49:141][571]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.08.26-17.04.49:170][571]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\TCC 2020\Casa/Cozinha/Cozinha_Geladeira.fbx)
+[2020.08.26-17.04.49:179][571]LogFbx: Loading FBX Scene from E:\TCC 2020\Casa/Cozinha/Cozinha_Geladeira.fbx
+[2020.08.26-17.04.49:188][571]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.26-17.04.49:191][571]LogFbx: Display: Triangulating static mesh Cozinha_Geladeira
+[2020.08.26-17.04.49:207][571]LogStaticMesh: Criando malha estática Cozinha_Geladeira...
+[2020.08.26-17.04.49:214][571]LogStaticMesh: Built static mesh [0.01s] /Game/MyContent/Models/Assets/Models/Casa/Cozinha/Cozinha_Geladeira.Cozinha_Geladeira
+[2020.08.26-17.04.49:219][571]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.08.26-17.04.49:233][571]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\TCC 2020\Casa/Cozinha/Cozinha_Microondas.fbx)
+[2020.08.26-17.04.49:244][571]LogFbx: Loading FBX Scene from E:\TCC 2020\Casa/Cozinha/Cozinha_Microondas.fbx
+[2020.08.26-17.04.49:249][571]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.26-17.04.49:250][571]LogFbx: Display: Triangulating static mesh Cozinha_Microondas
+[2020.08.26-17.04.49:260][571]LogStaticMesh: Criando malha estática Cozinha_Microondas...
+[2020.08.26-17.04.49:263][571]LogStaticMesh: Built static mesh [0.00s] /Game/MyContent/Models/Assets/Models/Casa/Cozinha/Cozinha_Microondas.Cozinha_Microondas
+[2020.08.26-17.04.49:266][571]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.08.26-17.04.49:276][571]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\TCC 2020\Casa/Lavanderia/Lavanderia_Janela.fbx)
+[2020.08.26-17.04.49:289][571]LogFbx: Loading FBX Scene from E:\TCC 2020\Casa/Lavanderia/Lavanderia_Janela.fbx
+[2020.08.26-17.04.49:293][571]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.26-17.04.49:295][571]LogFbx: Display: Triangulating static mesh Lavanderia_Janela
+[2020.08.26-17.04.49:302][571]LogStaticMesh: Criando malha estática Lavanderia_Janela...
+[2020.08.26-17.04.49:308][571]LogStaticMesh: Built static mesh [0.01s] /Game/MyContent/Models/Assets/Models/Casa/Lavanderia/Lavanderia_Janela.Lavanderia_Janela
+[2020.08.26-17.04.49:309][571]LogStaticMesh: Warning: Lavanderia_Janela has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.08.26-17.04.49:309][571]LogStaticMesh: Warning: Lavanderia_Janela has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.08.26-17.04.49:313][571]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.08.26-17.04.49:313][571]FBXImport: Warning: Lavanderia_Janela has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.08.26-17.04.49:313][571]FBXImport: Warning: Lavanderia_Janela has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.08.26-17.04.49:323][571]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\TCC 2020\Casa/Lavanderia/Lavanderia_Maquina_de_Lavar.fbx)
+[2020.08.26-17.04.49:337][571]LogFbx: Loading FBX Scene from E:\TCC 2020\Casa/Lavanderia/Lavanderia_Maquina_de_Lavar.fbx
+[2020.08.26-17.04.49:342][571]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.26-17.04.49:343][571]LogFbx: Display: Triangulating static mesh Lavanderia_Maquina_de_Lavar
+[2020.08.26-17.04.49:360][571]LogStaticMesh: Criando malha estática Lavanderia_Maquina_de_Lavar...
+[2020.08.26-17.04.49:368][571]LogStaticMesh: Built static mesh [0.01s] /Game/MyContent/Models/Assets/Models/Casa/Lavanderia/Lavanderia_Maquina_de_Lavar.Lavanderia_Maquina_de_Lavar
+[2020.08.26-17.04.49:372][571]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.08.26-17.04.49:389][571]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\TCC 2020\Casa/Lavanderia/Lavanderia_Tanque.fbx)
+[2020.08.26-17.04.49:397][571]LogFbx: Loading FBX Scene from E:\TCC 2020\Casa/Lavanderia/Lavanderia_Tanque.fbx
+[2020.08.26-17.04.49:401][571]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.26-17.04.49:403][571]LogFbx: Display: Triangulating static mesh Lavanderia_Tanque
+[2020.08.26-17.04.49:410][571]LogStaticMesh: Criando malha estática Lavanderia_Tanque...
+[2020.08.26-17.04.49:412][571]LogStaticMesh: Built static mesh [0.00s] /Game/MyContent/Models/Assets/Models/Casa/Lavanderia/Lavanderia_Tanque.Lavanderia_Tanque
+[2020.08.26-17.04.49:415][571]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.08.26-17.04.49:429][571]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\TCC 2020\Casa/Lavanderia/Lavanderia_Varal.fbx)
+[2020.08.26-17.04.49:439][571]LogFbx: Loading FBX Scene from E:\TCC 2020\Casa/Lavanderia/Lavanderia_Varal.fbx
+[2020.08.26-17.04.49:443][571]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.26-17.04.49:445][571]LogFbx: Display: Triangulating static mesh Lavanderia_Varal
+[2020.08.26-17.04.49:461][571]LogStaticMesh: Criando malha estática Lavanderia_Varal...
+[2020.08.26-17.04.49:469][571]LogStaticMesh: Built static mesh [0.01s] /Game/MyContent/Models/Assets/Models/Casa/Lavanderia/Lavanderia_Varal.Lavanderia_Varal
+[2020.08.26-17.04.49:476][571]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.08.26-17.04.49:491][571]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\TCC 2020\Casa/Quarto/Quarto_Cama_Solteiro.fbx)
+[2020.08.26-17.04.49:499][571]LogFbx: Loading FBX Scene from E:\TCC 2020\Casa/Quarto/Quarto_Cama_Solteiro.fbx
+[2020.08.26-17.04.49:515][571]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.26-17.04.49:652][571]LogMaterial: Display: Missing cached shader map for material Quarto_Cama_Solteiro1, compiling. 
+[2020.08.26-17.04.49:714][571]LogFbx: Display: Triangulating static mesh Quarto_Cama_Solteiro
+[2020.08.26-17.04.49:724][571]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2020.08.26-17.04.49:724][571]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2020.08.26-17.04.49:724][571]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.08.26-17.04.49:724][571]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.08.26-17.04.49:725][571]LogStaticMesh: Criando malha estática Quarto_Cama_Solteiro...
+[2020.08.26-17.04.49:731][571]LogStaticMesh: Built static mesh [0.01s] /Game/MyContent/Models/Assets/Models/Casa/Quarto/Quarto_Cama_Solteiro.Quarto_Cama_Solteiro
+[2020.08.26-17.04.49:735][571]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.08.26-17.04.49:760][571]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\TCC 2020\Casa/Quarto/Quarto_Casal_Armario_Grande.fbx)
+[2020.08.26-17.04.49:768][571]LogFbx: Loading FBX Scene from E:\TCC 2020\Casa/Quarto/Quarto_Casal_Armario_Grande.fbx
+[2020.08.26-17.04.49:773][571]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.26-17.04.49:774][571]LogFbx: Display: Triangulating static mesh Quarto_Casal_Armario_Grande
+[2020.08.26-17.04.49:776][571]LogStaticMesh: Criando malha estática Quarto_Casal_Armario_Grande...
+[2020.08.26-17.04.49:778][571]LogStaticMesh: Built static mesh [0.00s] /Game/MyContent/Models/Assets/Models/Casa/Quarto/Quarto_Casal_Armario_Grande.Quarto_Casal_Armario_Grande
+[2020.08.26-17.04.49:781][571]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.08.26-17.04.49:790][571]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\TCC 2020\Casa/Quarto/Quarto_Casal_Cama.fbx)
+[2020.08.26-17.04.49:798][571]LogFbx: Loading FBX Scene from E:\TCC 2020\Casa/Quarto/Quarto_Casal_Cama.fbx
+[2020.08.26-17.04.49:806][571]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.26-17.04.49:813][571]LogMaterial: Display: Missing cached shader map for material Quarto_Casal_Cama1, compiling. 
+[2020.08.26-17.04.49:824][571]LogFbx: Display: Triangulating static mesh Quarto_Casal_Cama
+[2020.08.26-17.04.49:841][571]LogStaticMesh: Criando malha estática Quarto_Casal_Cama...
+[2020.08.26-17.04.49:853][571]LogStaticMesh: Built static mesh [0.01s] /Game/MyContent/Models/Assets/Models/Casa/Quarto/Quarto_Casal_Cama.Quarto_Casal_Cama
+[2020.08.26-17.04.49:860][571]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.08.26-17.04.50:208][571]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\TCC 2020\Casa/Quarto/Quarto_Criado_Mudo.fbx)
+[2020.08.26-17.04.50:216][571]LogFbx: Loading FBX Scene from E:\TCC 2020\Casa/Quarto/Quarto_Criado_Mudo.fbx
+[2020.08.26-17.04.50:220][571]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.26-17.04.50:222][571]LogFbx: Display: Triangulating static mesh Quarto_Criado_Mudo
+[2020.08.26-17.04.50:234][571]LogStaticMesh: Criando malha estática Quarto_Criado_Mudo...
+[2020.08.26-17.04.50:237][571]LogStaticMesh: Built static mesh [0.00s] /Game/MyContent/Models/Assets/Models/Casa/Quarto/Quarto_Criado_Mudo.Quarto_Criado_Mudo
+[2020.08.26-17.04.50:241][571]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.08.26-17.04.50:432][571]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\TCC 2020\Casa/Quarto/Quarto_Janela.fbx)
+[2020.08.26-17.04.50:443][571]LogFbx: Loading FBX Scene from E:\TCC 2020\Casa/Quarto/Quarto_Janela.fbx
+[2020.08.26-17.04.50:452][571]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.26-17.04.50:454][571]LogFbx: Display: Triangulating static mesh Quarto_Janela
+[2020.08.26-17.04.50:461][571]LogStaticMesh: Criando malha estática Quarto_Janela_Quarto_Janela...
+[2020.08.26-17.04.50:468][571]LogStaticMesh: Built static mesh [0.01s] /Game/MyContent/Models/Assets/Models/Casa/Quarto/Quarto_Janela_Quarto_Janela.Quarto_Janela_Quarto_Janela
+[2020.08.26-17.04.50:474][571]LogFbx: Display: Triangulating static mesh Janela_Alum_F
+[2020.08.26-17.04.50:504][571]LogStaticMesh: Criando malha estática Quarto_Janela_Janela_Alum_F...
+[2020.08.26-17.04.50:508][571]LogStaticMesh: Built static mesh [0.00s] /Game/MyContent/Models/Assets/Models/Casa/Quarto/Quarto_Janela_Janela_Alum_F.Quarto_Janela_Janela_Alum_F
+[2020.08.26-17.04.50:511][571]LogFbx: Display: Triangulating static mesh Janela_Alum_M
+[2020.08.26-17.04.50:528][571]LogStaticMesh: Criando malha estática Quarto_Janela_Janela_Alum_M...
+[2020.08.26-17.04.50:532][571]LogStaticMesh: Built static mesh [0.00s] /Game/MyContent/Models/Assets/Models/Casa/Quarto/Quarto_Janela_Janela_Alum_M.Quarto_Janela_Janela_Alum_M
+[2020.08.26-17.04.50:535][571]LogFbx: Display: Triangulating static mesh Janela_Vidro
+[2020.08.26-17.04.50:538][571]LogStaticMesh: Criando malha estática Quarto_Janela_Janela_Vidro...
+[2020.08.26-17.04.50:539][571]LogStaticMesh: Built static mesh [0.00s] /Game/MyContent/Models/Assets/Models/Casa/Quarto/Quarto_Janela_Janela_Vidro.Quarto_Janela_Janela_Vidro
+[2020.08.26-17.04.50:549][571]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.08.26-17.04.50:559][571]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\TCC 2020\Casa/Quarto/Quarto_Mesa_Computador.fbx)
+[2020.08.26-17.04.50:569][571]LogFbx: Loading FBX Scene from E:\TCC 2020\Casa/Quarto/Quarto_Mesa_Computador.fbx
+[2020.08.26-17.04.50:575][571]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.26-17.04.50:582][571]LogMaterial: Display: Missing cached shader map for material Mesa_Computador, compiling. 
+[2020.08.26-17.04.50:595][571]LogFbx: Display: Triangulating static mesh Mesa_Computador
+[2020.08.26-17.04.50:597][571]LogStaticMesh: Criando malha estática Quarto_Mesa_Computador_Mesa_Computador...
+[2020.08.26-17.04.50:599][571]LogStaticMesh: Built static mesh [0.00s] /Game/MyContent/Models/Assets/Models/Casa/Quarto/Quarto_Mesa_Computador_Mesa_Computador.Quarto_Mesa_Computador_Mesa_Computador
+[2020.08.26-17.04.50:603][571]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.08.26-17.04.50:630][571]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\TCC 2020\Casa/Quarto/Quarto_Solteiro_P_Armario_Medio.fbx)
+[2020.08.26-17.04.50:638][571]LogFbx: Loading FBX Scene from E:\TCC 2020\Casa/Quarto/Quarto_Solteiro_P_Armario_Medio.fbx
+[2020.08.26-17.04.50:643][571]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.26-17.04.50:644][571]LogFbx: Display: Triangulating static mesh Quarto_Solteiro_P_Armario_Medio
+[2020.08.26-17.04.50:646][571]LogStaticMesh: Criando malha estática Quarto_Solteiro_P_Armario_Medio_Quarto_Solteiro_P_Armario_Medio...
+[2020.08.26-17.04.50:647][571]LogStaticMesh: Built static mesh [0.00s] /Game/MyContent/Models/Assets/Models/Casa/Quarto/Quarto_Solteiro_P_Armario_Medio_Quarto_Solteiro_P_Armario_Medio.Quarto_Solteiro_P_Armario_Medio_Quarto_Solteiro_P_Armario_Medio
+[2020.08.26-17.04.50:650][571]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.08.26-17.04.50:663][571]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\TCC 2020\Casa/Quarto/Quarto_Solteiro_S_Armario_Medio.fbx)
+[2020.08.26-17.04.50:675][571]LogFbx: Loading FBX Scene from E:\TCC 2020\Casa/Quarto/Quarto_Solteiro_S_Armario_Medio.fbx
+[2020.08.26-17.04.50:683][571]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.26-17.04.50:684][571]LogFbx: Display: Triangulating static mesh Quarto_Solteiro_S_Armario_Medio
+[2020.08.26-17.04.50:686][571]LogStaticMesh: Criando malha estática Quarto_Solteiro_S_Armario_Medio_Quarto_Solteiro_S_Armario_Medio...
+[2020.08.26-17.04.50:687][571]LogStaticMesh: Built static mesh [0.00s] /Game/MyContent/Models/Assets/Models/Casa/Quarto/Quarto_Solteiro_S_Armario_Medio_Quarto_Solteiro_S_Armario_Medio.Quarto_Solteiro_S_Armario_Medio_Quarto_Solteiro_S_Armario_Medio
+[2020.08.26-17.04.50:692][571]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.08.26-17.04.50:719][571]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\TCC 2020\Casa/Sala/Sala_Cadeira.fbx)
+[2020.08.26-17.04.50:731][571]LogFbx: Loading FBX Scene from E:\TCC 2020\Casa/Sala/Sala_Cadeira.fbx
+[2020.08.26-17.04.50:736][571]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.26-17.04.50:738][571]LogFbx: Display: Triangulating static mesh Sala_Cadeira
+[2020.08.26-17.04.50:742][571]LogStaticMesh: Criando malha estática Sala_Cadeira_Sala_Cadeira...
+[2020.08.26-17.04.50:746][571]LogStaticMesh: Built static mesh [0.00s] /Game/MyContent/Models/Assets/Models/Casa/Sala/Sala_Cadeira_Sala_Cadeira.Sala_Cadeira_Sala_Cadeira
+[2020.08.26-17.04.50:752][571]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.08.26-17.04.50:782][571]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\TCC 2020\Casa/Sala/Sala_Mesa.fbx)
+[2020.08.26-17.04.50:793][571]LogFbx: Loading FBX Scene from E:\TCC 2020\Casa/Sala/Sala_Mesa.fbx
+[2020.08.26-17.04.50:800][571]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.26-17.04.50:805][571]LogFbx: Display: Triangulating static mesh Sala_Mesa
+[2020.08.26-17.04.50:810][571]LogStaticMesh: Criando malha estática Sala_Mesa_Sala_Mesa...
+[2020.08.26-17.04.50:813][571]LogStaticMesh: Built static mesh [0.00s] /Game/MyContent/Models/Assets/Models/Casa/Sala/Sala_Mesa_Sala_Mesa.Sala_Mesa_Sala_Mesa
+[2020.08.26-17.04.50:817][571]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.08.26-17.04.50:826][571]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\TCC 2020\Casa/Sala/Sala_Mesa_de_Centro.fbx)
+[2020.08.26-17.04.50:835][571]LogFbx: Loading FBX Scene from E:\TCC 2020\Casa/Sala/Sala_Mesa_de_Centro.fbx
+[2020.08.26-17.04.50:839][571]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.26-17.04.50:841][571]LogFbx: Display: Triangulating static mesh Sala_Mesa_de_centro
+[2020.08.26-17.04.50:850][571]LogStaticMesh: Criando malha estática Sala_Mesa_de_Centro_Sala_Mesa_de_centro...
+[2020.08.26-17.04.50:856][571]LogStaticMesh: Built static mesh [0.01s] /Game/MyContent/Models/Assets/Models/Casa/Sala/Sala_Mesa_de_Centro_Sala_Mesa_de_centro.Sala_Mesa_de_Centro_Sala_Mesa_de_centro
+[2020.08.26-17.04.50:859][571]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.08.26-17.04.50:877][571]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\TCC 2020\Casa/Sala/Sala_Porta_Vidro.fbx)
+[2020.08.26-17.04.50:886][571]LogFbx: Loading FBX Scene from E:\TCC 2020\Casa/Sala/Sala_Porta_Vidro.fbx
+[2020.08.26-17.04.50:892][571]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.26-17.04.50:896][571]LogFbx: Display: Triangulating static mesh Sala_Porta_Vidro
+[2020.08.26-17.04.50:903][571]LogStaticMesh: Criando malha estática Sala_Porta_Vidro_Sala_Porta_Vidro...
+[2020.08.26-17.04.50:906][571]LogStaticMesh: Built static mesh [0.00s] /Game/MyContent/Models/Assets/Models/Casa/Sala/Sala_Porta_Vidro_Sala_Porta_Vidro.Sala_Porta_Vidro_Sala_Porta_Vidro
+[2020.08.26-17.04.50:912][571]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.08.26-17.04.50:930][571]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\TCC 2020\Casa/Sala/Sala_Rack.fbx)
+[2020.08.26-17.04.50:943][571]LogFbx: Loading FBX Scene from E:\TCC 2020\Casa/Sala/Sala_Rack.fbx
+[2020.08.26-17.04.50:955][571]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.26-17.04.50:957][571]LogFbx: Display: Triangulating static mesh Sala_Rack
+[2020.08.26-17.04.50:966][571]LogStaticMesh: Criando malha estática Sala_Rack_Sala_Rack...
+[2020.08.26-17.04.50:972][571]LogStaticMesh: Built static mesh [0.01s] /Game/MyContent/Models/Assets/Models/Casa/Sala/Sala_Rack_Sala_Rack.Sala_Rack_Sala_Rack
+[2020.08.26-17.04.50:978][571]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.08.26-17.04.51:006][571]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\TCC 2020\Casa/Sala/Sala_Sofa_C_Tres.fbx)
+[2020.08.26-17.04.51:018][571]LogFbx: Loading FBX Scene from E:\TCC 2020\Casa/Sala/Sala_Sofa_C_Tres.fbx
+[2020.08.26-17.04.51:024][571]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.26-17.04.51:048][571]LogMaterial: Display: Missing cached shader map for material Sala_Sofa_C_Tres, compiling. 
+[2020.08.26-17.04.51:069][571]LogFbx: Display: Triangulating static mesh Sala_Sofa_C_Tres
+[2020.08.26-17.04.51:121][571]LogStaticMesh: Criando malha estática Sala_Sofa_C_Tres_Sala_Sofa_C_Tres...
+[2020.08.26-17.04.51:146][571]LogStaticMesh: Built static mesh [0.03s] /Game/MyContent/Models/Assets/Models/Casa/Sala/Sala_Sofa_C_Tres_Sala_Sofa_C_Tres.Sala_Sofa_C_Tres_Sala_Sofa_C_Tres
+[2020.08.26-17.04.51:155][571]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.08.26-17.04.53:746][576]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 66
+[2020.08.26-17.04.54:165][582]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 56
+[2020.08.26-17.04.54:360][584]LogSlate: Window 'Registro de Mensagem' being destroyed
+[2020.08.26-17.04.55:401][605]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 46
+[2020.08.26-17.04.57:960][629]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 36
+[2020.08.26-17.05.01:390][656]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2020.08.26-17.05.02:173][662]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2020.08.26-17.05.05:317][685]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2020.08.26-17.05.07:738][704]LogActorFactory: Actor Factory created Casa_Base
+[2020.08.26-17.05.07:813][706]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.08.26-17.05.08:140][714]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.08.26-17.05.08:834][724]LogActorFactory: Actor Factory created Casa_Base
+[2020.08.26-17.05.09:311][726]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.08.26-17.05.10:314][741]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.08.26-17.05.10:566][744]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.08.26-17.05.10:620][744]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.05.10:986][748]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.08.26-17.05.13:745][785]LogEditorViewport: Clicking Background
+[2020.08.26-17.05.14:430][803]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Casa_Base)
+[2020.08.26-17.05.16:652][854]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.08.26-17.05.27:447][288]Cmd: TRANSACTION UNDO
+[2020.08.26-17.05.27:447][288]LogEditorTransaction: Undo Move Actors
+[2020.08.26-17.05.27:810][318]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.08.26-17.06.14:952][225]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.06.19:876][409]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.08.26-17.06.28:781][681]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.06.34:221][814]Cmd: DELETE
+[2020.08.26-17.06.34:221][814]Cmd: ACTOR DELETE
+[2020.08.26-17.06.34:319][814]LogEditorActor: Deleted Actor: SkyLight
+[2020.08.26-17.06.34:350][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.08.26-17.06.34:351][814]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2020.08.26-17.06.34:686][825]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.06.46:484][ 96]Cmd: DELETE
+[2020.08.26-17.06.46:484][ 96]Cmd: ACTOR DELETE
+[2020.08.26-17.06.46:486][ 96]LogEditorActor: Deleted Actor: DirectionalLight
+[2020.08.26-17.06.46:516][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.08.26-17.06.46:516][ 96]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2020.08.26-17.06.47:799][133]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.07.15:546][776]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.08.26-17.07.39:375][240]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.08.26-17.07.40:060][251]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight7)
+[2020.08.26-17.07.42:839][305]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.08.26-17.07.45:835][363]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.08.26-17.07.48:890][425]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.08.26-17.07.52:949][811]MapCheck: New page: Verificação de Mapa
+[2020.08.26-17.07.52:960][811]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.08.26-17.07.53:065][811]LightingResults: New page: Compilação de Iluminação - 26/08/2020 11:07:53
+[2020.08.26-17.07.53:217][811]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.08.26-17.07.53:474][811]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.08.26-17.07.53:491][811]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.08.26-17.07.54:548][811]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.08.26-17.07.54:548][811]LogSwarmInterface: [TryOpenConnection] Local Process ID is 14368
+[2020.08.26-17.07.56:805][811]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.08.26-17.07.56:806][811]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.08.26-17.07.56:806][811]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.08.26-17.07.56:806][811]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.08.26-17.07.56:806][811]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.08.26-17.07.56:806][811]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.08.26-17.07.56:913][811]LogEditorBuildUtils: Build time 0:03
+[2020.08.26-17.07.56:921][811]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2020.08.26-17.07.56:957][811]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.08.26-17.07.56:957][811]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.08.26-17.07.56:957][811]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2020.08.26-17.07.56:977][812]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2020.08.26-17.07.56:996][812]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.08.26-17.07.56:996][812]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.08.26-17.07.56:996][812]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2020.08.26-17.07.58:060][813]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.08.26-17.07.58:060][813]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.08.26-17.07.58:060][813]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.08.26-17.07.58:270][818]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.08.26-17.08.03:072][893]Job is a success!
+[2020.08.26-17.08.03:312][894]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.08.26-17.08.03:353][894]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.012s
+[2020.08.26-17.08.03:353][894]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.08.26-17.08.03:353][894]LogVolumetricLightmapImport:      BrickData 80x5x5 = 0.1Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2020.08.26-17.08.03:353][894]LogVolumetricLightmapImport:      Bricks at Level
+[2020.08.26-17.08.03:353][894]LogVolumetricLightmapImport:          0: 6.3% covering 100.0% of volume
+[2020.08.26-17.08.03:353][894]LogVolumetricLightmapImport:          1: 12.5% covering 3.1% of volume
+[2020.08.26-17.08.03:353][894]LogVolumetricLightmapImport:          2: 81.3% covering 0.3% of volume
+[2020.08.26-17.08.03:366][894]LightingResults: Warning: PointLight5 Perda de desempenho severa: Falha ao alocar o canal de mapa de sombras para a luz estacionária devido à sobreposição - a luz voltará para as sombras dinâmicas!
+[2020.08.26-17.08.03:367][894]LightingResults: Warning: PointLight7 Perda de desempenho severa: Falha ao alocar o canal de mapa de sombras para a luz estacionária devido à sobreposição - a luz voltará para as sombras dinâmicas!
+[2020.08.26-17.08.03:367][894]LightingResults: Warning: PointLight9 Perda de desempenho severa: Falha ao alocar o canal de mapa de sombras para a luz estacionária devido à sobreposição - a luz voltará para as sombras dinâmicas!
+[2020.08.26-17.08.03:367][894]LightingResults: Warning: PointLight8 Perda de desempenho severa: Falha ao alocar o canal de mapa de sombras para a luz estacionária devido à sobreposição - a luz voltará para as sombras dinâmicas!
+[2020.08.26-17.08.03:367][894]LightingResults: Warning: PointLight3 Perda de desempenho severa: Falha ao alocar o canal de mapa de sombras para a luz estacionária devido à sobreposição - a luz voltará para as sombras dinâmicas!
+[2020.08.26-17.08.03:400][894]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 128X128)
+[2020.08.26-17.08.03:400][894]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 128X128)
+[2020.08.26-17.08.03:400][894]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 128X64)
+[2020.08.26-17.08.03:445][894]Lightmass on DESKTOP-AM7GMFQ: 3.55 sec total, 204 ms importing, 31 ms setup, 164 ms photons, 3.03 sec processing, 0 ms extra exporting [2/2 mappings]. Threads: 21.2 sec total, 2.59 sec processing.
+[2020.08.26-17.08.03:450][894]LogStaticLightingSystem: Casa_BuiltData storing lightmap data for 2 meshes in 1 LightmapResourceClusters (2.0 Meshes per cluster).
+[2020.08.26-17.08.03:475][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2020.08.26-17.08.03:480][894]LogStaticLightingSystem: Illumination: 10.2 sec (25 ms encoding lightmaps, 4 ms encoding shadowmaps)
+[2020.08.26-17.08.03:480][894]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.08.26-17.08.03:480][894]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2020.08.26-17.08.03:798][894]DumpUnbuiltLightIteractions
+[2020.08.26-17.08.03:798][894]Lights with unbuilt interactions: 0
+[2020.08.26-17.08.03:798][894]
+[2020.08.26-17.08.03:798][894]Primitives with unbuilt interactions: 0
+[2020.08.26-17.08.03:836][895]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.08.26-17.08.03:836][895]MapCheck: New page: Casa - 26/08/2020 11:08:03
+[2020.08.26-17.08.03:842][895]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 5,64ms to complete.
+[2020.08.26-17.08.07:086][988]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.08.12:313][223]LogSlate: Window 'Registro de Mensagem' being destroyed
+[2020.08.26-17.08.12:356][223]LogSlate: Window 'Registro de Mensagem' being destroyed
+[2020.08.26-17.08.12:582][230]LogEditorViewport: Clicking Background
+[2020.08.26-17.08.15:768][295]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.08.26-17.08.15:783][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Maps/Casa" FILE="C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Maps/Casa.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.26-17.08.15:804][295]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.08.26-17.08.15:994][295]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Casa51A45995402FB1E18048F18843D55CCE.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Maps/Casa.umap'
+[2020.08.26-17.08.16:035][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Maps/Casa_BuiltData" FILE="C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Maps/Casa_BuiltData.uasset" SILENT=true
+[2020.08.26-17.08.16:079][295]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Casa_BuiltDataC54AAA2940642AF50E52ABBF7F370E5E.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Maps/Casa_BuiltData.uasset'
+[2020.08.26-17.08.17:263][321]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.08.26:229][618]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Casa_Base8F517F2A4C229AE6FE0B90ABA8B2F37C.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Casa/Casa_Base.uasset'
+[2020.08.26-17.08.28:049][715]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Casa_PortaB577625D49B313935FF4E1BA6024FFA4.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Casa/Casa_Porta.uasset'
+[2020.08.26-17.08.32:100][881]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Sala_Sofa_C_Tres11B1A48F409ACE82C25B429FA595CF8F.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Casa/Sala/Sala_Sofa_C_Tres.uasset'
+[2020.08.26-17.08.32:162][881]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Sala_Sofa_C_Tres_Sala_Sofa_C_Tre33F5FBCD41746A7D5BA368A6173803DC.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Casa/Sala/Sala_Sofa_C_Tres_Sala_Sofa_C_Tres.uasset'
+[2020.08.26-17.08.32:216][881]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Sala_Rack_Sala_RackAB2A58EC49DDC1A2ECE8888A3C170DBB.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Casa/Sala/Sala_Rack_Sala_Rack.uasset'
+[2020.08.26-17.08.32:268][881]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Sala_Porta_Vidro_Sala_Porta_Vidr22D0AB264D058B1D71AD75A97AF14303.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Casa/Sala/Sala_Porta_Vidro_Sala_Porta_Vidro.uasset'
+[2020.08.26-17.08.32:321][881]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Sala_Mesa_de_Centro_Sala_Mesa_de10633C5B4DA20A785E4602BD6814CB3D.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Casa/Sala/Sala_Mesa_de_Centro_Sala_Mesa_de_centro.uasset'
+[2020.08.26-17.08.32:373][881]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Sala_Mesa_Sala_Mesa5300E87848F938D3030A48A1681F138C.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Casa/Sala/Sala_Mesa_Sala_Mesa.uasset'
+[2020.08.26-17.08.32:424][881]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Sala_Cadeira_Sala_Cadeira7E5A315143E1EE17BE773CA774FD8883.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Casa/Sala/Sala_Cadeira_Sala_Cadeira.uasset'
+[2020.08.26-17.08.32:483][881]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Quarto_Solteiro_S_Armario_Medio_B3B5BAFC46B9C1ED343F988E60F6FF5F.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Casa/Quarto/Quarto_Solteiro_S_Armario_Medio_Quarto_Solteiro_S_Armario_Medio.uasset'
+[2020.08.26-17.08.32:540][881]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Quarto_Solteiro_P_Armario_Medio_9270089141D9E7323A587E919DA6DD9C.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Casa/Quarto/Quarto_Solteiro_P_Armario_Medio_Quarto_Solteiro_P_Armario_Medio.uasset'
+[2020.08.26-17.08.32:599][881]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Mesa_Computador0B4727294E3D6CE09A2D19856D5FE829.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Casa/Quarto/Mesa_Computador.uasset'
+[2020.08.26-17.08.32:651][881]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Quarto_Mesa_Computador_Mesa_Comp9F3CB6B54B6A5384DCE731905C120F3B.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Casa/Quarto/Quarto_Mesa_Computador_Mesa_Computador.uasset'
+[2020.08.26-17.08.32:709][881]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Quarto_Janela_Janela_Vidro2AD4D824424F09F4B4DD0AA4188F9032.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Casa/Quarto/Quarto_Janela_Janela_Vidro.uasset'
+[2020.08.26-17.08.32:770][881]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Quarto_Janela_Janela_Alum_M0B72EC4A4935D29BE18154A09213266F.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Casa/Quarto/Quarto_Janela_Janela_Alum_M.uasset'
+[2020.08.26-17.08.32:827][881]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Quarto_Janela_Janela_Alum_FA27DE3F54C23BA2B5B61A0B9819FC250.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Casa/Quarto/Quarto_Janela_Janela_Alum_F.uasset'
+[2020.08.26-17.08.32:880][881]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Quarto_Janela_Quarto_JanelaC05EC5204D69547F0A891991CB9D9BBD.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Casa/Quarto/Quarto_Janela_Quarto_Janela.uasset'
+[2020.08.26-17.08.32:934][881]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Quarto_Criado_MudoD0008D0C4BA7450704CF4FB9B970464A.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Casa/Quarto/Quarto_Criado_Mudo.uasset'
+[2020.08.26-17.08.32:989][881]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Quarto_Casal_Cama11BAC6EA949F89101A8A595BF1D70714D.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Casa/Quarto/Quarto_Casal_Cama1.uasset'
+[2020.08.26-17.08.33:046][881]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Quarto_Casal_Cama220C81D345FC89074DF34CB1C4A1C342.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Casa/Quarto/Quarto_Casal_Cama.uasset'
+[2020.08.26-17.08.33:107][881]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Quarto_Casal_Armario_GrandeC20DEAE74D70B8FDDD608FAD648B62FA.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Casa/Quarto/Quarto_Casal_Armario_Grande.uasset'
+[2020.08.26-17.08.33:161][881]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Quarto_Cama_Solteiro17ACE990D445B3A664FA5A28C1A037F10.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Casa/Quarto/Quarto_Cama_Solteiro1.uasset'
+[2020.08.26-17.08.33:215][881]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Quarto_Cama_SolteiroA3682EAF416A723680F067BD3469D37A.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Casa/Quarto/Quarto_Cama_Solteiro.uasset'
+[2020.08.26-17.08.33:272][881]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Lavanderia_Varal1FF4445A4C4A7C24E2A44887889762FF.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Casa/Lavanderia/Lavanderia_Varal.uasset'
+[2020.08.26-17.08.33:344][881]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Lavanderia_Tanque7875E27A464AC8C210CB728877072EB6.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Casa/Lavanderia/Lavanderia_Tanque.uasset'
+[2020.08.26-17.08.33:410][881]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Lavanderia_Maquina_de_Lavar5C309DC04120C87FCE91199BD70DF298.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Casa/Lavanderia/Lavanderia_Maquina_de_Lavar.uasset'
+[2020.08.26-17.08.33:468][881]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Lavanderia_Janela81A518544415F7A391940384715156CE.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Casa/Lavanderia/Lavanderia_Janela.uasset'
+[2020.08.26-17.08.33:533][881]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Cozinha_Microondas2F125A0A4C82938C8F328B8D38A94C65.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Casa/Cozinha/Cozinha_Microondas.uasset'
+[2020.08.26-17.08.33:592][881]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Cozinha_Geladeira6F0BA2C741692031E372098C9881A4F7.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Casa/Cozinha/Cozinha_Geladeira.uasset'
+[2020.08.26-17.08.33:656][881]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Cozinha_Fogao_c_BocasDFC5AF1346876AF0126802AACA712462.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Casa/Cozinha/Cozinha_Fogao_c_Bocas.uasset'
+[2020.08.26-17.08.33:719][881]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Cozinha_Armario_Parede4020ABD346F511192C7A41AA03352EB2.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Casa/Cozinha/Cozinha_Armario_Parede.uasset'
+[2020.08.26-17.08.33:779][881]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Cozinha_Armario_C_Pia859DFC3B4C2D3F7FACD4458D2E32601A.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Casa/Cozinha/Cozinha_Armario_C_Pia.uasset'
+[2020.08.26-17.08.33:835][881]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Banheiro_Sanitario12C81FCE4F853873020B4581D2E81C2C.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Casa/Banheiro/Banheiro_Sanitario.uasset'
+[2020.08.26-17.08.33:895][881]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Banheiro_Pia90C6346349136D41663D54A99746E1D4.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Casa/Banheiro/Banheiro_Pia.uasset'
+[2020.08.26-17.08.33:974][881]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Banheiro_Janela6E88D35642B4424F861885A3560F7080.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Casa/Banheiro/Banheiro_Janela.uasset'
+[2020.08.26-17.08.34:034][881]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Banheiro_EspelhoA620F2B446A343C3969306943780DB0B.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Casa/Banheiro/Banheiro_Espelho.uasset'
+[2020.08.26-17.08.34:102][881]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Banheiro_ChuveiroFD75D47748D73BBF4A92E68F7C4ADB89.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Casa/Banheiro/Banheiro_Chuveiro.uasset'
+[2020.08.26-17.08.34:158][881]LogSavePackage: Moving 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Saved/Banheiro_Box292195BB44B64831331083AA712018C1.tmp' to 'C:/Users/salles/Desktop/AiaiEsseTCC/Tentativa4/Content/MyContent/Models/Assets/Models/Casa/Banheiro/Banheiro_Box.uasset'
+[2020.08.26-17.08.41:671][ 17]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Casa_Base)
+[2020.08.26-17.08.42:200][ 25]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight5)
+[2020.08.26-17.08.48:973][157]Cmd: TRANSACTION UNDO
+[2020.08.26-17.08.48:973][157]LogEditorTransaction: Undo Move Actors
+[2020.08.26-17.08.54:706][355]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.08.56:977][402]LogEditorSessionSummary: EditorSessionSummary sent report. Type=AbnormalShutdown, SessionId={0E6564F9-4947-F8D3-A9ED-37952D20B5F3}
+[2020.08.26-17.08.57:476][413]Cmd: DELETE
+[2020.08.26-17.08.57:476][413]Cmd: ACTOR DELETE
+[2020.08.26-17.08.57:479][413]LogEditorActor: Deleted Actor: PointLight
+[2020.08.26-17.08.57:479][413]LogEditorActor: Deleted Actor: PointLight
+[2020.08.26-17.08.57:479][413]LogEditorActor: Deleted Actor: PointLight
+[2020.08.26-17.08.57:479][413]LogEditorActor: Deleted Actor: PointLight
+[2020.08.26-17.08.57:480][413]LogEditorActor: Deleted Actor: PointLight
+[2020.08.26-17.08.57:480][413]LogEditorActor: Deleted Actor: PointLight
+[2020.08.26-17.08.57:480][413]LogEditorActor: Deleted Actor: PointLight
+[2020.08.26-17.08.57:480][413]LogEditorActor: Deleted Actor: PointLight
+[2020.08.26-17.08.57:480][413]LogEditorActor: Deleted Actor: PointLight
+[2020.08.26-17.08.57:508][413]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2020.08.26-17.08.57:509][413]LogEditorActor: Deleted 9 Actors (0.033 secs)
+[2020.08.26-17.09.05:506][599]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.09.05:601][600]LogRenderer: Reallocating scene render targets to support 1212x572 Format 10 NumSamples 1 (Frame:6879).
+[2020.08.26-17.09.11:987][777]Cmd: DELETE
+[2020.08.26-17.09.11:987][777]Cmd: ACTOR DELETE
+[2020.08.26-17.09.11:989][777]LogEditorActor: Deleted Actor: RectLight
+[2020.08.26-17.09.12:034][777]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.08.26-17.09.12:034][777]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2020.08.26-17.09.13:439][811]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.09.16:895][894]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2020.08.26-17.09.17:434][906]Cmd: DELETE
+[2020.08.26-17.09.17:434][906]Cmd: ACTOR DELETE
+[2020.08.26-17.09.17:437][906]LogEditorActor: Deleted Actor: DirectionalLight
+[2020.08.26-17.09.17:488][906]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.08.26-17.09.17:488][906]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2020.08.26-17.09.18:140][926]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2020.08.26-17.09.20:756][996]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.08.26-17.09.29:382][388]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.09.36:617][615]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.09.44:717][847]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.09.56:092][ 41]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.10.03:819][534]MapCheck: New page: Verificação de Mapa
+[2020.08.26-17.10.03:830][534]LightingResults: New page: Compilação de Iluminação - 26/08/2020 11:10:03
+[2020.08.26-17.10.03:837][534]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.08.26-17.10.03:839][534]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.08.26-17.10.03:839][534]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.08.26-17.10.03:839][534]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.08.26-17.10.03:839][534]LogSwarmInterface: [TryOpenConnection] Local Process ID is 14368
+[2020.08.26-17.10.08:476][534]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.08.26-17.10.08:476][534]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.08.26-17.10.08:476][534]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.08.26-17.10.08:476][534]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.08.26-17.10.08:476][534]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.08.26-17.10.08:476][534]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.08.26-17.10.08:686][534]LogEditorBuildUtils: Build time 0:04
+[2020.08.26-17.10.08:716][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.08.26-17.10.10:567][593]Job is a success!
+[2020.08.26-17.10.10:895][594]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.006s
+[2020.08.26-17.10.10:895][594]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.08.26-17.10.10:895][594]LogVolumetricLightmapImport:      BrickData 15x5x5 = 0.0Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2020.08.26-17.10.10:895][594]LogVolumetricLightmapImport:      Bricks at Level
+[2020.08.26-17.10.10:895][594]LogVolumetricLightmapImport:          0: 33.3% covering 100.0% of volume
+[2020.08.26-17.10.10:895][594]LogVolumetricLightmapImport:          1: 66.7% covering 3.1% of volume
+[2020.08.26-17.10.10:895][594]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2020.08.26-17.10.10:919][594]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 128X64)
+[2020.08.26-17.10.10:919][594]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 128X128)
+[2020.08.26-17.10.10:919][594]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 128X128)
+[2020.08.26-17.10.10:929][594]LogStaticLightingSystem: Casa_BuiltData storing lightmap data for 2 meshes in 1 LightmapResourceClusters (2.0 Meshes per cluster).
+[2020.08.26-17.10.10:957][594]Lightmass on DESKTOP-AM7GMFQ: 1.67 sec total, 405 ms importing, 30 ms setup, 78 ms photons, 1.08 sec processing, 0 ms extra exporting [2/2 mappings]. Threads: 7.59 sec total, 632 ms processing.
+[2020.08.26-17.10.10:958][594]LogUObjectHash: Compacting FUObjectHashTables data took   5.42ms
+[2020.08.26-17.10.10:963][594]LogStaticLightingSystem: Illumination: 6.91 sec (9 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2020.08.26-17.10.10:963][594]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.08.26-17.10.10:963][594]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2020.08.26-17.10.11:478][594]DumpUnbuiltLightIteractions
+[2020.08.26-17.10.11:478][594]Lights with unbuilt interactions: 0
+[2020.08.26-17.10.11:478][594]
+[2020.08.26-17.10.11:478][594]Primitives with unbuilt interactions: 0
+[2020.08.26-17.10.11:592][595]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.08.26-17.10.11:592][595]MapCheck: New page: Casa - 26/08/2020 11:10:11
+[2020.08.26-17.10.11:592][595]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,321ms to complete.
+[2020.08.26-17.10.18:081][778]Cmd: TRANSACTION UNDO
+[2020.08.26-17.10.18:082][778]LogEditorTransaction: Undo Rotate Actors
+[2020.08.26-17.10.20:639][897]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.08.26-17.10.26:840][487]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.10.29:680][702]LogSlate: Took 0.022235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.08.26-17.10.48:585][363]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.11.20:549][241]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.11.22:720][271]LogActorFactory: Actor Factory created Sala_Porta_Vidro_Sala_Porta_Vidro
+[2020.08.26-17.11.23:573][295]LogActorFactory: Actor Factory created Sala_Porta_Vidro_Sala_Porta_Vidro
+[2020.08.26-17.11.46:866][928]Cmd: POLY SELECT ALL
+[2020.08.26-17.11.48:222][967]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Casa_Base)
+[2020.08.26-17.11.51:374][ 49]Cmd: POLY SELECT ADJACENT WALLS
+[2020.08.26-17.11.52:044][ 68]Cmd: POLY SELECT ADJACENT WALLS
+[2020.08.26-17.11.52:253][ 74]Cmd: POLY SELECT MEMORY UNION
+[2020.08.26-17.11.57:196][208]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.12.00:033][395]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sala_Porta_Vidro_Sala_Porta_Vidro)
+[2020.08.26-17.12.03:758][494]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Casa_Base)
+[2020.08.26-17.12.15:187][811]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.12.22:260][212]LogEditorViewport: Clicking Background
+[2020.08.26-17.12.26:804][325]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.12.27:111][331]LogActorFactory: Actor Factory created Sala_Rack_Sala_Rack
+[2020.08.26-17.12.28:280][392]LogActorFactory: Actor Factory created Sala_Rack_Sala_Rack
+[2020.08.26-17.12.28:886][410]LogActorFactory: Actor Factory created Sala_Rack_Sala_Rack
+[2020.08.26-17.12.53:266][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.12.53:448][ 33]LogActorFactory: Actor Factory created Sala_Mesa_de_Centro_Sala_Mesa_de_centro
+[2020.08.26-17.12.54:836][ 72]LogActorFactory: Actor Factory created Sala_Mesa_de_Centro_Sala_Mesa_de_centro
+[2020.08.26-17.12.56:385][104]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.12.56:514][104]LogActorFactory: Actor Factory created Sala_Sofa_C_Tres_Sala_Sofa_C_Tres
+[2020.08.26-17.12.58:451][158]LogActorFactory: Actor Factory created Sala_Sofa_C_Tres_Sala_Sofa_C_Tres
+[2020.08.26-17.13.00:314][189]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.13.04:993][273]Cmd: TRANSACTION UNDO
+[2020.08.26-17.13.04:993][273]LogEditorTransaction: Undo Set Rotation
+[2020.08.26-17.13.07:209][364]Cmd: TRANSACTION UNDO
+[2020.08.26-17.13.07:209][364]LogEditorTransaction: Undo Set Rotation
+[2020.08.26-17.13.14:037][478]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sala_Sofa_C_Tres_Sala_Sofa_C_Tres)
+[2020.08.26-17.13.24:806][760]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.13.24:948][761]LogActorFactory: Actor Factory created Sala_Mesa_Sala_Mesa
+[2020.08.26-17.13.28:340][858]LogActorFactory: Actor Factory created Sala_Mesa_Sala_Mesa
+[2020.08.26-17.13.36:615][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.13.36:871][ 84]LogActorFactory: Actor Factory created Sala_Cadeira_Sala_Cadeira
+[2020.08.26-17.13.38:853][138]LogActorFactory: Actor Factory created Sala_Cadeira_Sala_Cadeira
+[2020.08.26-17.14.03:391][823]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sala_Cadeira_Sala_Cadeira)
+[2020.08.26-17.14.09:075][971]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.14.23:236][301]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sala_Cadeira_Sala_Cadeira4)
+[2020.08.26-17.14.34:302][604]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.14.38:882][836]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sala_Cadeira_Sala_Cadeira5)
+[2020.08.26-17.14.53:570][254]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.14.59:419][601]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.15.05:103][704]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Casa_Base)
+[2020.08.26-17.15.05:456][704]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.08.26-17.15.07:827][792]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.15.08:006][793]LogActorFactory: Actor Factory created Quarto_Cama_Solteiro
+[2020.08.26-17.15.09:656][832]LogActorFactory: Actor Factory created Quarto_Cama_Solteiro
+[2020.08.26-17.15.26:095][278]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.08.26-17.15.42:186][640]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.15.42:490][642]LogActorFactory: Actor Factory created Quarto_Janela_Quarto_Janela
+[2020.08.26-17.15.45:202][712]LogActorFactory: Actor Factory created Quarto_Janela_Quarto_Janela
+[2020.08.26-17.15.46:005][722]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.15.46:190][723]LogActorFactory: Actor Factory created Quarto_Janela_Janela_Vidro
+[2020.08.26-17.15.47:361][749]LogActorFactory: Actor Factory created Quarto_Janela_Janela_Vidro
+[2020.08.26-17.16.29:660][900]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.16.45:698][457]Cmd: POLY SELECT MEMORY UNION
+[2020.08.26-17.16.46:990][492]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.17.02:492][  2]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.17.02:632][  2]LogActorFactory: Actor Factory created Quarto_Janela_Janela_Alum_M
+[2020.08.26-17.17.05:020][ 62]LogActorFactory: Actor Factory created Quarto_Janela_Janela_Alum_M
+[2020.08.26-17.17.08:206][143]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.17.08:335][144]LogActorFactory: Actor Factory created Quarto_Janela_Janela_Alum_F
+[2020.08.26-17.17.10:382][195]LogActorFactory: Actor Factory created Quarto_Janela_Janela_Alum_F
+[2020.08.26-17.17.22:589][532]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.08.26-17.18.09:201][840]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.18.24:526][634]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Quarto_Janela_Janela_Alum_M)
+[2020.08.26-17.18.58:183][573]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Quarto_Janela_Janela_Alum_F)
+[2020.08.26-17.19.14:052][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.19.18:179][272]EditorErrors: New page: Actor attachment
+[2020.08.26-17.19.30:744][634]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.19.36:513][  7]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.19.59:315][377]Cmd: TRANSACTION UNDO
+[2020.08.26-17.19.59:316][377]LogEditorTransaction: Undo Move Actors
+[2020.08.26-17.20.00:377][463]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.20.39:011][564]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.20.46:943][790]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.08.26-17.20.53:631][976]LogEditorViewport: Clicking Background
+[2020.08.26-17.21.02:352][189]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.21.08:446][316]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.21.08:647][321]LogActorFactory: Actor Factory created Casa_Porta
+[2020.08.26-17.21.12:463][435]LogActorFactory: Actor Factory created Casa_Porta
+[2020.08.26-17.21.37:993][149]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.21.48:491][593]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Casa_Porta)
+[2020.08.26-17.21.57:880][856]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.22.03:801][103]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.22.09:823][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.22.12:656][437]LogActorFactory: Actor Factory created Cozinha_Armario_C_Pia
+[2020.08.26-17.22.17:387][575]LogActorFactory: Actor Factory created Cozinha_Armario_C_Pia
+[2020.08.26-17.22.19:618][619]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.22.19:751][619]LogActorFactory: Actor Factory created Cozinha_Geladeira
+[2020.08.26-17.22.21:382][661]LogActorFactory: Actor Factory created Cozinha_Geladeira
+[2020.08.26-17.22.32:718][976]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cozinha_Armario_C_Pia)
+[2020.08.26-17.22.55:869][609]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.22.55:991][609]LogActorFactory: Actor Factory created Cozinha_Fogao_c_Bocas
+[2020.08.26-17.22.57:475][649]LogActorFactory: Actor Factory created Cozinha_Fogao_c_Bocas
+[2020.08.26-17.22.59:715][685]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.22.59:825][685]LogActorFactory: Actor Factory created Cozinha_Microondas
+[2020.08.26-17.23.01:148][721]LogActorFactory: Actor Factory created Cozinha_Microondas
+[2020.08.26-17.23.04:728][797]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.23.04:856][797]LogActorFactory: Actor Factory created Cozinha_Armario_Parede
+[2020.08.26-17.23.12:530][ 19]LogActorFactory: Actor Factory created Cozinha_Armario_Parede
+[2020.08.26-17.23.30:147][499]LogEditorViewport: Clicking Background
+[2020.08.26-17.23.38:684][739]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cozinha_Fogao_c_Bocas)
+[2020.08.26-17.23.43:446][857]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cozinha_Geladeira)
+[2020.08.26-17.23.49:666][ 18]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cozinha_Armario_C_Pia)
+[2020.08.26-17.23.59:887][274]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.24.07:525][442]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.24.08:326][452]LogActorFactory: Actor Factory created Lavanderia_Janela
+[2020.08.26-17.24.10:400][512]LogActorFactory: Actor Factory created Lavanderia_Janela
+[2020.08.26-17.24.23:466][873]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.24.36:903][322]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.24.37:047][322]LogActorFactory: Actor Factory created Lavanderia_Tanque
+[2020.08.26-17.24.40:471][419]LogActorFactory: Actor Factory created Lavanderia_Tanque
+[2020.08.26-17.24.46:771][592]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.24.47:096][610]LogActorFactory: Actor Factory created Lavanderia_Maquina_de_Lavar
+[2020.08.26-17.24.53:917][810]LogActorFactory: Actor Factory created Lavanderia_Maquina_de_Lavar
+[2020.08.26-17.24.56:323][877]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.08.26-17.24.57:290][903]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.25.08:755][318]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.25.08:848][318]LogActorFactory: Actor Factory created Lavanderia_Varal
+[2020.08.26-17.25.10:306][357]LogActorFactory: Actor Factory created Lavanderia_Varal
+[2020.08.26-17.25.31:864][957]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.25.48:191][315]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.25.48:451][317]LogActorFactory: Actor Factory created Banheiro_Sanitario
+[2020.08.26-17.25.49:897][357]LogActorFactory: Actor Factory created Banheiro_Sanitario
+[2020.08.26-17.25.50:468][365]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.25.50:597][365]LogActorFactory: Actor Factory created Banheiro_Pia
+[2020.08.26-17.25.53:168][438]LogActorFactory: Actor Factory created Banheiro_Pia
+[2020.08.26-17.26.04:309][745]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.26.04:503][747]LogActorFactory: Actor Factory created Banheiro_Espelho
+[2020.08.26-17.26.05:689][780]LogActorFactory: Actor Factory created Banheiro_Espelho
+[2020.08.26-17.26.10:419][908]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Banheiro_Sanitario)
+[2020.08.26-17.26.12:752][948]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.26.24:616][237]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.26.24:852][238]LogActorFactory: Actor Factory created Banheiro_Box
+[2020.08.26-17.26.26:303][279]LogActorFactory: Actor Factory created Banheiro_Box
+[2020.08.26-17.26.34:510][506]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.08.26-17.26.37:196][564]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.26.37:444][565]LogActorFactory: Actor Factory created Banheiro_Chuveiro
+[2020.08.26-17.26.38:685][599]LogActorFactory: Actor Factory created Banheiro_Chuveiro
+[2020.08.26-17.27.01:298][224]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.27.01:447][224]LogActorFactory: Actor Factory created Banheiro_Janela
+[2020.08.26-17.27.03:951][296]LogActorFactory: Actor Factory created Banheiro_Janela
+[2020.08.26-17.27.06:268][358]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.08.26-17.27.16:615][645]LogEditorViewport: Clicking Background
+[2020.08.26-17.27.23:184][840]Cmd: POLY SELECT MEMORY UNION
+[2020.08.26-17.27.23:444][848]Cmd: POLY SELECT MEMORY UNION
+[2020.08.26-17.27.24:414][877]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.27.28:064][ 89]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Banheiro_Janela)
+[2020.08.26-17.27.32:044][202]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Casa_Base)
+[2020.08.26-17.27.37:907][357]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.27.43:557][636]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.27.48:568][693]LogActorFactory: Actor Factory created Quarto_Casal_Cama
+[2020.08.26-17.27.52:555][799]LogActorFactory: Actor Factory created Quarto_Casal_Cama
+[2020.08.26-17.28.15:611][386]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.28.17:018][401]LogActorFactory: Actor Factory created Quarto_Casal_Armario_Grande
+[2020.08.26-17.28.20:424][497]LogActorFactory: Actor Factory created Quarto_Casal_Armario_Grande
+[2020.08.26-17.28.39:021][  8]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.28.39:274][ 10]LogActorFactory: Actor Factory created Quarto_Mesa_Computador_Mesa_Computador
+[2020.08.26-17.28.42:170][ 90]LogActorFactory: Actor Factory created Quarto_Mesa_Computador_Mesa_Computador
+[2020.08.26-17.28.42:235][ 91]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.08.26-17.29.08:991][823]Cmd: EDIT COPY
+[2020.08.26-17.29.25:565][290]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.29.25:712][290]LogActorFactory: Actor Factory created Quarto_Mesa_Computador_Mesa_Computador
+[2020.08.26-17.29.27:923][346]LogActorFactory: Actor Factory created Quarto_Mesa_Computador_Mesa_Computador
+[2020.08.26-17.29.36:996][570]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.29.37:130][570]LogActorFactory: Actor Factory created Quarto_Criado_Mudo
+[2020.08.26-17.29.40:466][666]LogActorFactory: Actor Factory created Quarto_Criado_Mudo
+[2020.08.26-17.29.40:500][666]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.08.26-17.29.56:909][129]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Quarto_Mesa_Computador_Mesa_Computador2)
+[2020.08.26-17.30.06:633][407]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Quarto_Mesa_Computador_Mesa_Computador2)
+[2020.08.26-17.30.07:699][437]Cmd: DELETE
+[2020.08.26-17.30.07:699][437]Cmd: ACTOR DELETE
+[2020.08.26-17.30.07:702][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.08.26-17.30.07:738][437]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2020.08.26-17.30.07:739][437]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2020.08.26-17.30.08:141][448]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.08.26-17.30.08:674][461]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Quarto_Mesa_Computador_Mesa_Computador)
+[2020.08.26-17.30.15:234][625]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.30.31:012][ 57]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Quarto_Criado_Mudo)
+[2020.08.26-17.30.36:794][213]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Quarto_Mesa_Computador_Mesa_Computador2)
+[2020.08.26-17.30.42:486][372]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.08.26-17.30.44:367][424]Cmd: POLY SELECT MEMORY UNION
+[2020.08.26-17.30.44:643][432]Cmd: POLY SELECT MEMORY UNION
+[2020.08.26-17.30.46:463][479]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Casa_Base)
+[2020.08.26-17.30.47:033][491]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.30.49:090][699]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Quarto_Mesa_Computador_Mesa_Computador3)
+[2020.08.26-17.30.56:105][887]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.08.26-17.31.02:964][ 72]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Quarto_Criado_Mudo2)
+[2020.08.26-17.31.03:060][ 72]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.08.26-17.31.15:900][417]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.31.21:054][695]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Casa_Base)
+[2020.08.26-17.31.22:515][727]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Quarto_Cama_Solteiro)
+[2020.08.26-17.31.25:925][818]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.08.26-17.31.33:274][999]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.31.44:257][239]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.26-17.31.44:417][240]LogActorFactory: Actor Factory created Quarto_Solteiro_S_Armario_Medio_Quarto_Solteiro_S_Armario_Medio
+[2020.08.26-17.31.46:676][298]LogActorFactory: Actor Factory created Quarto_Solteiro_S_Armario_Medio_Quarto_Solteiro_S_Armario_Medio
+[2020.08.26-17.31.48:895][347]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
