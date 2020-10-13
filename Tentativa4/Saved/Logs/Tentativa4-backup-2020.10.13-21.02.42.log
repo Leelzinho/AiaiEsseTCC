@@ -1,0 +1,776 @@
+﻿Log file open, 10/13/20 17:38:16
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Tentativa4
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.064682
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 2004) (), CPU: AMD Ryzen 7 3800X 8-Core Processor             , GPU: NVIDIA GeForce GTX 960
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.10.13-20.38.16:360][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.10.13-20.38.16:360][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.10.13-20.38.16:360][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/leoda/Desktop/TCC/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Engine.ini]
+[2020.10.13-20.38.16:360][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.10.13-20.38.16:360][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/leoda/Desktop/TCC/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Engine.ini]
+[2020.10.13-20.38.16:360][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/leoda/Desktop/TCC/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Engine.ini]
+[2020.10.13-20.38.16:360][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.10.13-20.38.16:360][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.10.13-20.38.16:360][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.10.13-20.38.16:360][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.10.13-20.38.16:360][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.10.13-20.38.16:360][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.10.13-20.38.16:360][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.10.13-20.38.16:360][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.10.13-20.38.16:360][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.10.13-20.38.16:360][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.10.13-20.38.16:360][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.10.13-20.38.16:360][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.10.13-20.38.16:360][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.10.13-20.38.16:360][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/leoda/Desktop/TCC/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Engine.ini]
+[2020.10.13-20.38.16:360][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.10.13-20.38.16:360][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.10.13-20.38.16:360][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.10.13-20.38.16:360][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.10.13-20.38.16:360][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.10.13-20.38.16:361][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.10.13-20.38.16:361][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.10.13-20.38.16:361][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.10.13-20.38.16:361][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.10.13-20.38.16:361][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.10.13-20.38.16:361][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.10.13-20.38.16:361][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.10.13-20.38.16:361][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.10.13-20.38.16:361][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/leoda/Desktop/TCC/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Engine.ini]
+[2020.10.13-20.38.16:361][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/leoda/Desktop/TCC/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Engine.ini]
+[2020.10.13-20.38.16:363][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/leoda/Desktop/TCC/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/leoda/Desktop/TCC/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/leoda/Desktop/TCC/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/leoda/Desktop/TCC/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/leoda/Desktop/TCC/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/leoda/Desktop/TCC/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/leoda/Desktop/TCC/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.10.13-20.38.16:363][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.10.13-20.38.16:364][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.13-20.38.16:364][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.10.13-20.38.16:366][  0]LogHAL: Display: Platform has ~ 24 GB [25715486720 / 34359738368 / 24], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.10.13-20.38.16:366][  0]LogInit: Going up to parent DeviceProfile []
+[2020.10.13-20.38.16:366][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/leoda/Desktop/TCC/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.10.13-20.38.16:366][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.10.13-20.38.16:366][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.10.13-20.38.16:366][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/leoda/Desktop/TCC/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.10.13-20.38.16:366][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.10.13-20.38.16:366][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/leoda/Desktop/TCC/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.10.13-20.38.16:366][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.13-20.38.16:366][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.10.13-20.38.16:366][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.10.13-20.38.16:366][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.10.13-20.38.16:366][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.10.13-20.38.16:366][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.10.13-20.38.16:366][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.10.13-20.38.16:366][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.10.13-20.38.16:366][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.10.13-20.38.16:366][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.10.13-20.38.16:366][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.10.13-20.38.16:366][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.10.13-20.38.16:366][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.10.13-20.38.16:366][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.10.13-20.38.16:366][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.10.13-20.38.16:366][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.10.13-20.38.16:366][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.10.13-20.38.16:366][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.13-20.38.16:366][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/leoda/Desktop/TCC/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.10.13-20.38.16:366][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.10.13-20.38.16:366][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.10.13-20.38.16:366][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.10.13-20.38.16:366][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.10.13-20.38.16:366][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.10.13-20.38.16:366][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.10.13-20.38.16:366][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.10.13-20.38.16:366][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.10.13-20.38.16:366][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.10.13-20.38.16:366][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.10.13-20.38.16:366][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.10.13-20.38.16:366][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.10.13-20.38.16:366][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.10.13-20.38.16:366][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.10.13-20.38.16:366][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.10.13-20.38.16:366][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.10.13-20.38.16:366][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.10.13-20.38.16:366][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.10.13-20.38.16:367][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.10.13-20.38.16:367][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.13-20.38.16:367][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.10.13-20.38.16:367][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.10.13-20.38.16:367][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.10.13-20.38.16:367][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.10.13-20.38.16:367][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.10.13-20.38.16:367][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.10.13-20.38.16:367][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.10.13-20.38.16:367][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.10.13-20.38.16:367][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.10.13-20.38.16:367][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.10.13-20.38.16:367][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/leoda/Desktop/TCC/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.10.13-20.38.16:367][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.10.13-20.38.16:367][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.13-20.38.16:367][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.13-20.38.16:367][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.13-20.38.16:367][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.10.13-20.38.16:367][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.10.13-20.38.16:367][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.10.13-20.38.16:367][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.13-20.38.16:367][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/leoda/Desktop/TCC/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.10.13-20.38.16:367][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.10.13-20.38.16:367][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.10.13-20.38.16:367][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.10.13-20.38.16:367][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.10.13-20.38.16:367][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.10.13-20.38.16:367][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.10.13-20.38.16:367][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.10.13-20.38.16:367][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.10.13-20.38.16:367][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.10.13-20.38.16:367][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.10.13-20.38.16:367][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.10.13-20.38.16:367][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.10.13-20.38.16:367][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.10.13-20.38.16:367][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/leoda/Desktop/TCC/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Scalability.ini]
+[2020.10.13-20.38.16:367][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.10.13-20.38.16:367][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.10.13-20.38.16:367][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.10.13-20.38.16:367][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.10.13-20.38.16:367][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.10.13-20.38.16:367][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/leoda/Desktop/TCC/AiaiEsseTCC/Tentativa4/Saved/Config/Windows/Engine.ini]
+[2020.10.13-20.38.16:367][  0]LogInit: Computer: DESKTOP-J58AG85
+[2020.10.13-20.38.16:367][  0]LogInit: User: leoda
+[2020.10.13-20.38.16:367][  0]LogInit: CPU Page size=4096, Cores=8
+[2020.10.13-20.38.16:367][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.10.13-20.38.16:367][  0]LogMemory: Memory total: Physical=23.9GB (24GB approx)
+[2020.10.13-20.38.16:367][  0]LogMemory: Platform Memory Stats for Windows
+[2020.10.13-20.38.16:367][  0]LogMemory: Process Physical Memory: 103.06 MB used, 103.07 MB peak
+[2020.10.13-20.38.16:367][  0]LogMemory: Process Virtual Memory: 91.89 MB used, 91.89 MB peak
+[2020.10.13-20.38.16:367][  0]LogMemory: Physical Memory: 8842.86 MB used,  15681.34 MB free, 24524.20 MB total
+[2020.10.13-20.38.16:367][  0]LogMemory: Virtual Memory: 4694.46 MB used,  134213032.00 MB free, 134217728.00 MB total
+[2020.10.13-20.38.16:369][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.10.13-20.38.16:403][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.10.13-20.38.16:403][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2020.10.13-20.38.16:533][  0]LogInit: Setting process to per monitor DPI aware
+[2020.10.13-20.38.16:562][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.10.13-20.38.16:562][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.10.13-20.38.16:688][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.10.13-20.38.16:689][  0]LogD3D11RHI: D3D11 adapters:
+[2020.10.13-20.38.16:759][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960' (Feature Level 11_0)
+[2020.10.13-20.38.16:759][  0]LogD3D11RHI:       4053/0/12262 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.10.13-20.38.16:761][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.10.13-20.38.16:761][  0]LogD3D11RHI:       0/0/12262 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.10.13-20.38.16:761][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.10.13-20.38.16:766][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.10.13-20.38.16:767][  0]LogD3D11RHI:     GPU DeviceId: 0x1401 (for the marketing name, search the web for "GPU Device Id")
+[2020.10.13-20.38.16:767][  0]LogWindows: EnumDisplayDevices:
+[2020.10.13-20.38.16:767][  0]LogWindows:    0. 'NVIDIA GeForce GTX 960' (P:1 D:1)
+[2020.10.13-20.38.16:767][  0]LogWindows:    1. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2020.10.13-20.38.16:767][  0]LogWindows:    2. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2020.10.13-20.38.16:767][  0]LogWindows:    3. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2020.10.13-20.38.16:767][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.10.13-20.38.16:767][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960
+[2020.10.13-20.38.16:767][  0]LogD3D11RHI:   Driver Version: 456.71 (internal:27.21.14.5671, unified:456.71)
+[2020.10.13-20.38.16:767][  0]LogD3D11RHI:      Driver Date: 9-30-2020
+[2020.10.13-20.38.16:767][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2020.10.13-20.38.16:813][  0]LogD3D11RHI: Async texture creation enabled
+[2020.10.13-20.38.16:824][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.10.13-20.38.17:093][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.10.13-20.38.17:101][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.10.13-20.38.17:109][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.10.13-20.38.17:117][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.10.13-20.38.17:125][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.10.13-20.38.17:132][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.10.13-20.38.17:140][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.10.13-20.38.17:147][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.10.13-20.38.17:151][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.10.13-20.38.17:179][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.10.13-20.38.17:179][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.10.13-20.38.17:179][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.10.13-20.38.17:179][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.10.13-20.38.17:179][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.10.13-20.38.17:179][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.10.13-20.38.17:179][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.10.13-20.38.17:179][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.10.13-20.38.17:179][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.10.13-20.38.17:179][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.10.13-20.38.17:179][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.10.13-20.38.17:179][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.10.13-20.38.17:179][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.10.13-20.38.17:179][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.10.13-20.38.17:179][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.10.13-20.38.17:179][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.10.13-20.38.17:179][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.10.13-20.38.17:179][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.10.13-20.38.17:181][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.10.13-20.38.17:196][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.10.13-20.38.17:196][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.10.13-20.38.17:208][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.10.13-20.38.17:208][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.10.13-20.38.17:214][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.10.13-20.38.17:220][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.10.13-20.38.17:226][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.10.13-20.38.17:233][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.10.13-20.38.17:253][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.10.13-20.38.17:253][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.10.13-20.38.17:253][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.10.13-20.38.17:262][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.10.13-20.38.17:310][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../../Users/leoda/Desktop/TCC/AiaiEsseTCC/Tentativa4/Intermediate/Shaders/WorkingDirectory/7216/).
+[2020.10.13-20.38.17:310][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/leoda/AppData/Local/Temp/UnrealShaderWorkingDir/0A05C55340D2418CA74AF597C2086B62/'.
+[2020.10.13-20.38.17:312][  0]LogXGEController: Cleaning working directory: C:/Users/leoda/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.10.13-20.38.17:313][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.10.13-20.38.17:313][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.10.13-20.38.17:313][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.10.13-20.38.17:807][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.10.13-20.38.17:844][  0]LogDerivedDataCache: Loaded boot cache 0.04s 73MB C:/Users/leoda/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.10.13-20.38.17:844][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/leoda/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.10.13-20.38.17:844][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/leoda/Desktop/TCC/AiaiEsseTCC/Tentativa4/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.10.13-20.38.17:844][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.10.13-20.38.17:844][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/leoda/Desktop/TCC/AiaiEsseTCC/Tentativa4/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.13-20.38.17:844][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.10.13-20.38.17:854][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.10.13-20.38.17:855][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.13-20.38.17:855][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.10.13-20.38.17:856][  0]LogDerivedDataCache: Using Local data cache path C:/Users/leoda/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.10.13-20.38.17:856][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.10.13-20.38.17:856][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.10.13-20.38.17:873][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.10.13-20.38.17:875][  0]LogSlate: Using FreeType 2.6.0
+[2020.10.13-20.38.17:876][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.10.13-20.38.17:922][  0]LogAssetRegistry: FAssetRegistry took 0.0024 seconds to start up
+[2020.10.13-20.38.18:141][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.13-20.38.18:254][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.10.13-20.38.18:254][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.10.13-20.38.18:254][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.10.13-20.38.18:254][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.10.13-20.38.18:254][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.10.13-20.38.18:262][  0]LogNetVersion: Tentativa4 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 811232057)
+[2020.10.13-20.38.18:580][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.043359 seconds
+[2020.10.13-20.38.18:588][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.10.13-20.38.18:588][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.10.13-20.38.18:588][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.10.13-20.38.19:286][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.10.13-20.38.19:289][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.10.13-20.38.19:337][  0]SourceControl: Source control is disabled
+[2020.10.13-20.38.19:337][  0]SourceControl: Source control is disabled
+[2020.10.13-20.38.19:338][  0]SourceControl: Source control is disabled
+[2020.10.13-20.38.19:339][  0]SourceControl: Source control is disabled
+[2020.10.13-20.38.19:422][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.10.13-20.38.19:574][  0]LogOcInput: OculusInput pre-init called
+[2020.10.13-20.38.19:761][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.10.13-20.38.19:761][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.10.13-20.38.19:823][  0]LogEngine: Initializing Engine...
+[2020.10.13-20.38.19:824][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.10.13-20.38.19:825][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.10.13-20.38.19:990][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.10.13-20.38.20:007][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.10.13-20.38.20:029][  0]LogInit: XAudio2 using 'VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2020.10.13-20.38.20:038][  0]LogInit: FAudioDevice initialized.
+[2020.10.13-20.38.20:039][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.10.13-20.38.21:323][  0]LogDerivedDataCache: Saved boot cache 1.28s 73MB C:/Users/leoda/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.10.13-20.38.21:329][  0]LogInit: Texture streaming: Enabled
+[2020.10.13-20.38.21:348][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.10.13-20.38.21:348][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.10.13-20.38.21:349][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.10.13-20.38.21:509][  0]LogInit: Transaction tracking system initialized
+[2020.10.13-20.38.21:538][  0]BlueprintLog: New page: Editor Load
+[2020.10.13-20.38.21:610][  0]LocalizationService: Localization service is disabled
+[2020.10.13-20.38.22:191][  0]LogFileCache: Scanning file cache for directory 'C:/Users/leoda/Desktop/TCC/AiaiEsseTCC/Tentativa4/Content/' took 0.01s
+[2020.10.13-20.38.22:191][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.10.13-20.38.22:191][  0]LogCook: Display: Mobile HDR setting 1
+[2020.10.13-20.38.22:359][  0]SourceControl: Source control is disabled
+[2020.10.13-20.38.22:448][  0]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.10.13-20.38.36:569][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2020.10.13-20.38.36:569][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.10.13-20.38.36:601][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.10.13-20.38.39:668][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2020.10.13-20.38.39:668][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.10.13-20.38.39:689][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.10.13-20.38.39:690][  0]Cmd: MAP LOAD FILE="../../../../../../Users/leoda/Desktop/TCC/AiaiEsseTCC/Tentativa4/Content/MyContent/Maps/Station.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.13-20.38.39:690][  0]LightingResults: New page: Lighting Build
+[2020.10.13-20.38.39:693][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.10.13-20.38.39:693][  0]MapCheck: New page: Map Check
+[2020.10.13-20.38.39:693][  0]LightingResults: New page: Lighting Build
+[2020.10.13-20.38.39:720][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.10.13-20.38.40:240][  0]LogAIModule: Creating AISystem for world Station
+[2020.10.13-20.38.40:256][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.13-20.38.40:289][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.10.13-20.38.40:290][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.13-20.38.40:290][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.247ms to complete.
+[2020.10.13-20.38.40:290][  0]LogFileHelpers: Loading map 'Station' took 0.600
+[2020.10.13-20.38.40:339][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.13-20.38.40:345][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.13-20.38.40:350][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.13-20.38.40:355][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.13-20.38.40:362][  0]LogCollectionManager: Loaded 0 collections in 0.001749 seconds
+[2020.10.13-20.38.40:367][  0]LogFileCache: Scanning file cache for directory 'C:/Users/leoda/Desktop/TCC/AiaiEsseTCC/Tentativa4/Saved/Collections/' took 0.00s
+[2020.10.13-20.38.40:367][  0]LogFileCache: Scanning file cache for directory 'C:/Users/leoda/Desktop/TCC/AiaiEsseTCC/Tentativa4/Content/Developers/leoda/Collections/' took 0.00s
+[2020.10.13-20.38.40:367][  0]LogFileCache: Scanning file cache for directory 'C:/Users/leoda/Desktop/TCC/AiaiEsseTCC/Tentativa4/Content/Collections/' took 0.00s
+[2020.10.13-20.38.40:367][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.10.13-20.38.40:375][  0]LogContentBrowser: Native class hierarchy populated in 0.0074 seconds. Added 2863 classes and 680 folders.
+[2020.10.13-20.38.40:380][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.10.13-20.38.40:420][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.10.13-20.38.40:426][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.10.13-20.38.40:437][  0]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.10.13-20.38.40:441][  0]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.10.13-20.38.40:468][  0]LogRenderer: Reallocating scene render targets to support 1136x572 Format 10 NumSamples 1 (Frame:1).
+[2020.10.13-20.38.40:537][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.10.13-20.38.40:537][  0]LogLoad: (Engine Initialization) Total time: 27.64 seconds
+[2020.10.13-20.38.40:537][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.10.13-20.38.40:585][  0]LogAssetRegistry: Asset discovery search completed in 22.6640 seconds
+[2020.10.13-20.38.40:588][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000005 seconds (found 0 objects)
+[2020.10.13-20.38.40:588][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000030 seconds (updated 0 objects)
+[2020.10.13-20.38.40:590][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.10.13-20.38.40:608][  0]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.13-20.38.41:573][103]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.13-20.38.42:836][250]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.13-20.38.43:013][268]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2020.10.13-20.38.43:193][268]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.10.13-20.38.43:836][268]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TopDownBP/Character/MyGameInstance.MyGameInstance
+[2020.10.13-20.38.44:128][268]LogAssetEditorManager: Opening Asset editor for BlackboardData /Game/MyContent/FriendlyNPC/DialogueTree/DialogueBB.DialogueBB
+[2020.10.13-20.38.44:304][268]LogAssetEditorManager: Opening Asset editor for BehaviorTree /Game/MyContent/FriendlyNPC/DialogueTree/DialogueTree.DialogueTree
+[2020.10.13-20.38.44:374][268]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyContent/FriendlyNPC/DialogueTree/Function/AskQuestion.AskQuestion
+[2020.10.13-20.38.44:665][268]LogSlate: Took 0.000365 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.10.13-20.38.44:715][269]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.10.13-20.39.36:332][458]BlueprintLog: New page: Compile AskQuestion
+[2020.10.13-20.39.36:531][458]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2020.10.13-20.39.38:827][711]LogAIModule: Creating AISystem for world Train
+[2020.10.13-20.39.38:832][711]LogAssetEditorManager: Opening Asset editor for World /Game/MyContent/Maps/Train.Train
+[2020.10.13-20.39.38:865][711]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.10.13-20.39.40:318][711]LogSlate: Window 'Save Content' being destroyed
+[2020.10.13-20.39.40:379][711]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/TCC/AiaiEsseTCC/Tentativa4/Saved/AskQuestion516649AC4B7E33B3FE7FFF857C63A71D.tmp' to '../../../../../../Users/leoda/Desktop/TCC/AiaiEsseTCC/Tentativa4/Content/MyContent/FriendlyNPC/DialogueTree/Function/AskQuestion.uasset'
+[2020.10.13-20.39.40:382][711]Cmd: MAP LOAD FILE="../../../../../../Users/leoda/Desktop/TCC/AiaiEsseTCC/Tentativa4/Content/MyContent/Maps/Train.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.13-20.39.40:382][711]LightingResults: New page: Lighting Build
+[2020.10.13-20.39.40:382][711]LoadErrors: New page: Loading map: Train.umap
+[2020.10.13-20.39.40:383][711]LogWorld: UWorld::CleanupWorld for Station, bSessionEnded=true, bCleanupResources=true
+[2020.10.13-20.39.40:384][711]MapCheck: New page: Map Check
+[2020.10.13-20.39.40:384][711]LightingResults: New page: Lighting Build
+[2020.10.13-20.39.40:419][711]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2020.10.13-20.39.40:425][711]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.13-20.39.40:459][711]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.10.13-20.39.40:495][711]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.13-20.39.40:495][711]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.115ms to complete.
+[2020.10.13-20.39.40:495][711]LogFileHelpers: Loading map 'Train' took 0.114
+[2020.10.13-20.39.43:825][ 85]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/MyContent/Maps/Train.Train:PersistentLevel.Train
+[2020.10.13-20.39.56:188][527]LogSlate: Window 'Train' being destroyed
+[2020.10.13-20.39.56:191][527]LogSlate: Window 'Train' being destroyed
+[2020.10.13-20.39.56:191][527]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.10.13-20.40.07:397][723]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownController.TopDownController
+[2020.10.13-20.40.13:478][410]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.10.13-20.40.15:965][666]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode
+[2020.10.13-20.40.23:850][572]BlueprintLog: New page: Compile TopDownGameMode
+[2020.10.13-20.40.24:058][572]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2020.10.13-20.40.27:145][934]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.10.13-20.45.10:045][803]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2020.10.13-20.45.11:465][803]LogSlate: Window 'Save Content' being destroyed
+[2020.10.13-20.45.11:530][803]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/TCC/AiaiEsseTCC/Tentativa4/Saved/AskQuestionC96C882B4DF274EA1622658356C5F774.tmp' to '../../../../../../Users/leoda/Desktop/TCC/AiaiEsseTCC/Tentativa4/Content/MyContent/FriendlyNPC/DialogueTree/Function/AskQuestion.uasset'
+[2020.10.13-20.45.11:574][803]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/TCC/AiaiEsseTCC/Tentativa4/Saved/TopDownGameModeE17E424745E8DC27E6859796C387D3F9.tmp' to '../../../../../../Users/leoda/Desktop/TCC/AiaiEsseTCC/Tentativa4/Content/TopDownBP/Blueprints/TopDownGameMode.uasset'
+[2020.10.13-20.45.28:104][737]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MyContent/Interfaces/UserInterface/HeadsUpDisplay.HeadsUpDisplay
+[2020.10.13-20.46.35:614][740]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MyContent/Interfaces/UserInterface/DialogueBox.DialogueBox
+[2020.10.13-20.47.08:962][673]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.10.13-20.47.08:997][673]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.10.13-20.47.20:324][ 21]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.10.13-20.47.20:357][ 21]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.10.13-20.47.40:650][450]LogEditorSessionSummary: EditorSessionSummary sent report. Type=AbnormalShutdown, SessionId={1D5A047F-4B11-E577-5AEA-668371CBB535}
+[2020.10.13-20.48.46:879][394]BlueprintLog: New page: Compile AskQuestion
+[2020.10.13-20.48.47:147][394]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2020.10.13-20.49.50:048][926]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2020.10.13-20.49.50:048][926]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyContent/Maps/Train' took 0.040
+[2020.10.13-20.49.50:049][926]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyContent/FriendlyNPC/DialogueTree/Function/AskQuestion] ([1] browsable assets)...
+[2020.10.13-20.49.50:049][926]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyContent/FriendlyNPC/DialogueTree/Function/AskQuestion]
+[2020.10.13-20.49.50:095][926]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/TCC/AiaiEsseTCC/Tentativa4/Saved/AskQuestion_Auto1C37094E14FD5A2F4FDD96BB0B2A06549.tmp' to '../../../../../../Users/leoda/Desktop/TCC/AiaiEsseTCC/Tentativa4/Saved/Autosaves/Game/MyContent/FriendlyNPC/DialogueTree/Function/AskQuestion_Auto1.uasset'
+[2020.10.13-20.49.50:096][926]LogFileHelpers: Auto-saving content packages took 0.047
+[2020.10.13-20.50.08:734][160]LogAssetEditorManager: Opening Asset editor for Blueprint /Engine/EditorBlueprintResources/StandardMacros.StandardMacros
+[2020.10.13-20.58.11:282][277]LogSlate: Window 'StandardMacros' being destroyed
+[2020.10.13-20.59.50:479][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.10.13-20.59.50:479][796]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyContent/Maps/Train' took 0.036
+[2020.10.13-20.59.50:481][796]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Engine/EditorBlueprintResources/StandardMacros] ([1] browsable assets)...
+[2020.10.13-20.59.50:481][796]OBJ SavePackage: Finished generating thumbnails for package [/Engine/EditorBlueprintResources/StandardMacros]
+[2020.10.13-20.59.50:582][796]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/TCC/AiaiEsseTCC/Tentativa4/Saved/StandardMacros_Auto299F11763448BC86D7CBF7FA6A61D057F.tmp' to '../../../../../../Users/leoda/Desktop/TCC/AiaiEsseTCC/Tentativa4/Saved/Autosaves/Engine/EditorBlueprintResources/StandardMacros_Auto2.uasset'
+[2020.10.13-20.59.50:583][796]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyContent/FriendlyNPC/DialogueTree/Function/AskQuestion] ([1] browsable assets)...
+[2020.10.13-20.59.50:583][796]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyContent/FriendlyNPC/DialogueTree/Function/AskQuestion]
+[2020.10.13-20.59.50:631][796]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/TCC/AiaiEsseTCC/Tentativa4/Saved/AskQuestion_Auto25B10B6284445383FA12606AB750AEEC0.tmp' to '../../../../../../Users/leoda/Desktop/TCC/AiaiEsseTCC/Tentativa4/Saved/Autosaves/Game/MyContent/FriendlyNPC/DialogueTree/Function/AskQuestion_Auto2.uasset'
+[2020.10.13-20.59.50:632][796]LogFileHelpers: Auto-saving content packages took 0.152
+[2020.10.13-21.02.34:024][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EditorBlueprintResources/StandardMacros" FILE="../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" SILENT=true
+[2020.10.13-21.02.34:103][197]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/TCC/AiaiEsseTCC/Tentativa4/Saved/StandardMacros3B2F6AA8426C2E565BE2E3B4CE770401.tmp' to '../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset'
+[2020.10.13-21.02.39:447][828]LogSavePackage: Moving '../../../../../../Users/leoda/Desktop/TCC/AiaiEsseTCC/Tentativa4/Saved/AskQuestion4DFBE6144310DE701335BF88F68ED20D.tmp' to '../../../../../../Users/leoda/Desktop/TCC/AiaiEsseTCC/Tentativa4/Content/MyContent/FriendlyNPC/DialogueTree/Function/AskQuestion.uasset'
+[2020.10.13-21.02.41:420][ 56]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.13-21.02.41:458][ 56]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyContent/Maps/Train.Train:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Maps/Train.Train:PersistentLevel.Train' with GeneratedClass '/Game/MyContent/Maps/Train.Train_C' with ClassGeneratedBy '/Game/MyContent/Maps/Train.Train:PersistentLevel.Train'
+[2020.10.13-21.02.41:460][ 56]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.10.13-21.02.41:476][ 56]LogPlayLevel: [PlayLevel] Compiling StandardMacros before play...
+[2020.10.13-21.02.41:477][ 56]LogPlayLevel: [PlayLevel]   Compiling BP_SceneNode as a dependent...
+[2020.10.13-21.02.41:478][ 56]LogPlayLevel: [PlayLevel]   Compiling BP_SceneRoot as a dependent...
+[2020.10.13-21.02.41:478][ 56]LogPlayLevel: [PlayLevel]   Compiling FBXImporterUtils as a dependent...
+[2020.10.13-21.02.41:478][ 56]LogPlayLevel: [PlayLevel]   Compiling RenderToTextureFunctionLibrary as a dependent...
+[2020.10.13-21.02.41:478][ 56]LogPlayLevel: [PlayLevel]   Compiling RenderToTextureMacros as a dependent...
+[2020.10.13-21.02.41:478][ 56]LogPlayLevel: [PlayLevel]   Compiling ThirdPerson_AnimBP as a dependent...
+[2020.10.13-21.02.41:478][ 56]LogPlayLevel: [PlayLevel]   Compiling BP_Switch as a dependent...
+[2020.10.13-21.02.41:478][ 56]LogPlayLevel: [PlayLevel]   Compiling AskQuestion as a dependent...
+[2020.10.13-21.02.41:478][ 56]LogPlayLevel: [PlayLevel]   Compiling DisplayMessage as a dependent...
+[2020.10.13-21.02.41:478][ 56]LogPlayLevel: [PlayLevel]   Compiling TopDownController as a dependent...
+[2020.10.13-21.02.41:815][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2020.10.13-21.02.41:816][ 56]LogPlayLevel: PlayLevel: Blueprint regeneration took 355 ms (11 blueprints)
+[2020.10.13-21.02.41:816][ 56]PIE: New page: PIE session: Train (Oct 13, 2020, 3:02:41 PM)
+[2020.10.13-21.02.41:817][ 56]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.10.13-21.02.41:818][ 56]LogPlayLevel: Creating play world package: /Game/MyContent/Maps/UEDPIE_0_Train
+[2020.10.13-21.02.41:822][ 56]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003795s)
+[2020.10.13-21.02.41:823][ 56]LogAIModule: Creating AISystem for world Train
+[2020.10.13-21.02.41:823][ 56]LogPlayLevel: PIE: World Init took: (0.000835s)
+[2020.10.13-21.02.41:823][ 56]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyContent/Maps/Train.Train to /Game/MyContent/Maps/UEDPIE_0_Train.Train (0.004829s)
+[2020.10.13-21.02.41:861][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.10.13-21.02.41:879][ 56]LogInit: XAudio2 using 'VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)' : 2 channels at 48 kHz using 24 bits per sample (channel mask 0x3)
+[2020.10.13-21.02.41:884][ 56]LogInit: FAudioDevice initialized.
+[2020.10.13-21.02.41:893][ 56]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.10.13-21.02.41:896][ 56]LogWorld: Bringing World /Game/MyContent/Maps/UEDPIE_0_Train.Train up for play (max tick rate 0) at 2020.10.13-18.02.41
+[2020.10.13-21.02.41:898][ 56]LogWorld: Bringing up level for play took: 0.004256
+[2020.10.13-21.02.41:898][ 56]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.10.13-21.02.41:907][ 56]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.10.13-21.02.41:911][ 56]PIE: Play in editor start time for /Game/MyContent/Maps/UEDPIE_0_Train 0.414
+[2020.10.13-21.02.41:911][ 56]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyContent/Maps/Train.Train:PersistentLevel' has LevelScriptBlueprint '/Game/MyContent/Maps/Train.Train:PersistentLevel.Train' with GeneratedClass '/Game/MyContent/Maps/Train.Train_C' with ClassGeneratedBy '/Game/MyContent/Maps/Train.Train:PersistentLevel.Train'
+[2020.10.13-21.02.41:912][ 56]LogScript: Warning: Accessed None trying to read property MessageWidget
+	HeadsUpDisplay_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_0.HeadsUpDisplay_C_0
+	Function /Game/MyContent/Interfaces/UserInterface/HeadsUpDisplay.HeadsUpDisplay_C:DisplayMessage:0051
+[2020.10.13-21.02.41:912][ 56]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:149][ 57]LogScript: Warning: Accessed None trying to read property MessageWidget
+	HeadsUpDisplay_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_0.HeadsUpDisplay_C_0
+	Function /Game/MyContent/Interfaces/UserInterface/HeadsUpDisplay.HeadsUpDisplay_C:DisplayMessage:0051
+[2020.10.13-21.02.42:150][ 57]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:175][ 58]LogScript: Warning: Accessed None trying to read property MessageWidget
+	HeadsUpDisplay_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_0.HeadsUpDisplay_C_0
+	Function /Game/MyContent/Interfaces/UserInterface/HeadsUpDisplay.HeadsUpDisplay_C:DisplayMessage:0051
+[2020.10.13-21.02.42:175][ 58]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:180][ 59]LogScript: Warning: Accessed None trying to read property MessageWidget
+	HeadsUpDisplay_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_0.HeadsUpDisplay_C_0
+	Function /Game/MyContent/Interfaces/UserInterface/HeadsUpDisplay.HeadsUpDisplay_C:DisplayMessage:0051
+[2020.10.13-21.02.42:180][ 59]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:189][ 60]LogScript: Warning: Accessed None trying to read property MessageWidget
+	HeadsUpDisplay_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_0.HeadsUpDisplay_C_0
+	Function /Game/MyContent/Interfaces/UserInterface/HeadsUpDisplay.HeadsUpDisplay_C:DisplayMessage:0051
+[2020.10.13-21.02.42:189][ 60]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:197][ 61]LogScript: Warning: Accessed None trying to read property MessageWidget
+	HeadsUpDisplay_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_0.HeadsUpDisplay_C_0
+	Function /Game/MyContent/Interfaces/UserInterface/HeadsUpDisplay.HeadsUpDisplay_C:DisplayMessage:0051
+[2020.10.13-21.02.42:197][ 61]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:205][ 62]LogScript: Warning: Accessed None trying to read property MessageWidget
+	HeadsUpDisplay_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_0.HeadsUpDisplay_C_0
+	Function /Game/MyContent/Interfaces/UserInterface/HeadsUpDisplay.HeadsUpDisplay_C:DisplayMessage:0051
+[2020.10.13-21.02.42:205][ 62]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:214][ 63]LogScript: Warning: Accessed None trying to read property MessageWidget
+	HeadsUpDisplay_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_0.HeadsUpDisplay_C_0
+	Function /Game/MyContent/Interfaces/UserInterface/HeadsUpDisplay.HeadsUpDisplay_C:DisplayMessage:0051
+[2020.10.13-21.02.42:214][ 63]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:222][ 64]LogScript: Warning: Accessed None trying to read property MessageWidget
+	HeadsUpDisplay_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_0.HeadsUpDisplay_C_0
+	Function /Game/MyContent/Interfaces/UserInterface/HeadsUpDisplay.HeadsUpDisplay_C:DisplayMessage:0051
+[2020.10.13-21.02.42:222][ 64]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:230][ 65]LogScript: Warning: Accessed None trying to read property MessageWidget
+	HeadsUpDisplay_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_0.HeadsUpDisplay_C_0
+	Function /Game/MyContent/Interfaces/UserInterface/HeadsUpDisplay.HeadsUpDisplay_C:DisplayMessage:0051
+[2020.10.13-21.02.42:230][ 65]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:238][ 66]LogScript: Warning: Accessed None trying to read property MessageWidget
+	HeadsUpDisplay_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_0.HeadsUpDisplay_C_0
+	Function /Game/MyContent/Interfaces/UserInterface/HeadsUpDisplay.HeadsUpDisplay_C:DisplayMessage:0051
+[2020.10.13-21.02.42:239][ 66]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:247][ 67]LogScript: Warning: Accessed None trying to read property MessageWidget
+	HeadsUpDisplay_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_0.HeadsUpDisplay_C_0
+	Function /Game/MyContent/Interfaces/UserInterface/HeadsUpDisplay.HeadsUpDisplay_C:DisplayMessage:0051
+[2020.10.13-21.02.42:247][ 67]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:255][ 68]LogScript: Warning: Accessed None trying to read property MessageWidget
+	HeadsUpDisplay_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_0.HeadsUpDisplay_C_0
+	Function /Game/MyContent/Interfaces/UserInterface/HeadsUpDisplay.HeadsUpDisplay_C:DisplayMessage:0051
+[2020.10.13-21.02.42:255][ 68]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:264][ 69]LogScript: Warning: Accessed None trying to read property MessageWidget
+	HeadsUpDisplay_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_0.HeadsUpDisplay_C_0
+	Function /Game/MyContent/Interfaces/UserInterface/HeadsUpDisplay.HeadsUpDisplay_C:DisplayMessage:0051
+[2020.10.13-21.02.42:264][ 69]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:272][ 70]LogScript: Warning: Accessed None trying to read property MessageWidget
+	HeadsUpDisplay_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_0.HeadsUpDisplay_C_0
+	Function /Game/MyContent/Interfaces/UserInterface/HeadsUpDisplay.HeadsUpDisplay_C:DisplayMessage:0051
+[2020.10.13-21.02.42:272][ 70]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:280][ 71]LogScript: Warning: Accessed None trying to read property MessageWidget
+	HeadsUpDisplay_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_0.HeadsUpDisplay_C_0
+	Function /Game/MyContent/Interfaces/UserInterface/HeadsUpDisplay.HeadsUpDisplay_C:DisplayMessage:0051
+[2020.10.13-21.02.42:280][ 71]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:289][ 72]LogScript: Warning: Accessed None trying to read property MessageWidget
+	HeadsUpDisplay_C /Engine/Transient.UnrealEdEngine_0:MyGameInstance_C_0.HeadsUpDisplay_C_0
+	Function /Game/MyContent/Interfaces/UserInterface/HeadsUpDisplay.HeadsUpDisplay_C:DisplayMessage:0051
+[2020.10.13-21.02.42:289][ 72]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:297][ 73]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:305][ 74]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:314][ 75]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:322][ 76]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:330][ 77]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:339][ 78]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:347][ 79]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:355][ 80]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:364][ 81]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:372][ 82]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:380][ 83]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:389][ 84]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:397][ 85]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:405][ 86]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:414][ 87]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:422][ 88]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:430][ 89]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:438][ 90]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:447][ 91]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:455][ 92]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:464][ 93]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:472][ 94]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:480][ 95]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:489][ 96]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:497][ 97]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:505][ 98]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:514][ 99]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:522][100]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:530][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:539][102]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:547][103]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:555][104]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:564][105]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:572][106]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:580][107]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:589][108]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:597][109]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:605][110]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:614][111]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:622][112]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:630][113]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:639][114]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:647][115]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:655][116]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:664][117]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:672][118]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:680][119]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:689][120]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:697][121]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:705][122]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:714][123]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:723][124]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:730][125]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:739][126]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
+[2020.10.13-21.02.42:747][127]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MessageWidget". Blueprint:  HeadsUpDisplay Function:  Display Message Graph:  DisplayMessage Node:  Remove from Parent
